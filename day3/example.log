@@ -1,0 +1,3786 @@
+INFO:root:Digit found! 1, at (0,36)
+INFO:root:18
+INFO:root:True
+INFO:root:Digit found! 8, at (0,48)
+INFO:root:889
+INFO:root:False
+INFO:root:Digit found! 2, at (0,52)
+INFO:root:270
+INFO:root:False
+INFO:root:Digit found! 7, at (0,60)
+INFO:root:748
+INFO:root:True
+INFO:root:Digit found! 2, at (0,64)
+INFO:root:280
+INFO:root:False
+INFO:root:Digit found! 9, at (0,70)
+INFO:root:997
+INFO:root:False
+INFO:root:Digit found! 6, at (0,90)
+INFO:root:617
+INFO:root:True
+INFO:root:Digit found! 6, at (0,107)
+INFO:root:622
+INFO:root:False
+INFO:root:Digit found! 7, at (0,118)
+INFO:root:763
+INFO:root:False
+INFO:root:Digit found! 4, at (0,133)
+INFO:root:476
+INFO:root:True
+INFO:root:Digit found! 5, at (1,3)
+INFO:root:529
+INFO:root:True
+INFO:root:Digit found! 4, at (1,12)
+INFO:root:434
+INFO:root:True
+INFO:root:Digit found! 1, at (1,20)
+INFO:root:191
+INFO:root:False
+INFO:root:Digit found! 4, at (1,25)
+INFO:root:489
+INFO:root:False
+INFO:root:Digit found! 7, at (1,31)
+INFO:root:717
+INFO:root:False
+INFO:root:Digit found! 9, at (1,80)
+INFO:root:939
+INFO:root:True
+INFO:root:Digit found! 7, at (1,84)
+INFO:root:7
+INFO:root:True
+INFO:root:Digit found! 0, at (1,112)
+INFO:root:6
+INFO:root:True
+INFO:root:Digit found! 7, at (1,126)
+INFO:root:760
+INFO:root:False
+INFO:root:Digit found! 4, at (2,8)
+INFO:root:473
+INFO:root:False
+INFO:root:Digit found! 2, at (2,16)
+INFO:root:221
+INFO:root:True
+INFO:root:Digit found! 1, at (2,44)
+INFO:root:182
+INFO:root:False
+INFO:root:Digit found! 8, at (2,53)
+INFO:root:812
+INFO:root:True
+INFO:root:Digit found! 4, at (2,64)
+INFO:root:493
+INFO:root:True
+INFO:root:Digit found! 8, at (2,68)
+INFO:root:84
+INFO:root:True
+INFO:root:Digit found! 7, at (2,74)
+INFO:root:793
+INFO:root:True
+INFO:root:Digit found! 7, at (2,87)
+INFO:root:794
+INFO:root:True
+INFO:root:Digit found! 5, at (2,97)
+INFO:root:589
+INFO:root:True
+INFO:root:Digit found! 4, at (2,102)
+INFO:root:407
+INFO:root:True
+INFO:root:Digit found! 4, at (2,107)
+INFO:root:41
+INFO:root:True
+INFO:root:Digit found! 6, at (2,134)
+INFO:root:68
+INFO:root:True
+INFO:root:Digit found! 3, at (3,2)
+INFO:root:380
+INFO:root:True
+INFO:root:Digit found! 5, at (3,22)
+INFO:root:553
+INFO:root:False
+INFO:root:Digit found! 5, at (3,27)
+INFO:root:559
+INFO:root:False
+INFO:root:Digit found! 1, at (3,32)
+INFO:root:105
+INFO:root:True
+INFO:root:Digit found! 7, at (3,40)
+INFO:root:749
+INFO:root:True
+INFO:root:Digit found! 9, at (3,92)
+INFO:root:968
+INFO:root:True
+INFO:root:Digit found! 9, at (3,113)
+INFO:root:908
+INFO:root:True
+INFO:root:Digit found! 6, at (3,118)
+INFO:root:603
+INFO:root:True
+INFO:root:Digit found! 6, at (4,45)
+INFO:root:600
+INFO:root:True
+INFO:root:Digit found! 4, at (4,57)
+INFO:root:441
+INFO:root:True
+INFO:root:Digit found! 8, at (4,63)
+INFO:root:833
+INFO:root:True
+INFO:root:Digit found! 4, at (4,69)
+INFO:root:490
+INFO:root:True
+INFO:root:Digit found! 3, at (4,76)
+INFO:root:366
+INFO:root:True
+INFO:root:Digit found! 2, at (4,104)
+INFO:root:225
+INFO:root:True
+INFO:root:Digit found! 4, at (4,109)
+INFO:root:488
+INFO:root:True
+INFO:root:Digit found! 4, at (4,124)
+INFO:root:456
+INFO:root:True
+INFO:root:Digit found! 2, at (4,136)
+INFO:root:224
+INFO:root:True
+INFO:root:Digit found! 2, at (5,8)
+INFO:root:288
+INFO:root:True
+INFO:root:Digit found! 8, at (5,18)
+INFO:root:896
+INFO:root:True
+INFO:root:Digit found! 4, at (5,22)
+INFO:root:469
+INFO:root:True
+INFO:root:Digit found! 8, at (5,35)
+INFO:root:831
+INFO:root:False
+INFO:root:Digit found! 1, at (5,90)
+INFO:root:146
+INFO:root:True
+INFO:root:Digit found! 7, at (5,114)
+INFO:root:790
+INFO:root:True
+INFO:root:Digit found! 1, at (5,128)
+INFO:root:194
+INFO:root:True
+INFO:root:Digit found! 7, at (6,2)
+INFO:root:730
+INFO:root:True
+INFO:root:Digit found! 2, at (6,30)
+INFO:root:250
+INFO:root:True
+INFO:root:Digit found! 3, at (6,48)
+INFO:root:359
+INFO:root:True
+INFO:root:Digit found! 4, at (6,57)
+INFO:root:462
+INFO:root:True
+INFO:root:Digit found! 1, at (6,74)
+INFO:root:138
+INFO:root:True
+INFO:root:Digit found! 4, at (6,82)
+INFO:root:49
+INFO:root:True
+INFO:root:Digit found! 7, at (6,86)
+INFO:root:713
+INFO:root:True
+INFO:root:Digit found! 3, at (6,99)
+INFO:root:342
+INFO:root:True
+INFO:root:Digit found! 6, at (6,105)
+INFO:root:604
+INFO:root:True
+INFO:root:Digit found! 6, at (6,109)
+INFO:root:676
+INFO:root:True
+INFO:root:Digit found! 4, at (6,137)
+INFO:root:418
+INFO:root:True
+INFO:root:Digit found! 9, at (7,9)
+INFO:root:907
+INFO:root:True
+INFO:root:Digit found! 5, at (7,19)
+INFO:root:526
+INFO:root:True
+INFO:root:Digit found! 2, at (7,38)
+INFO:root:274
+INFO:root:True
+INFO:root:Digit found! 3, at (7,52)
+INFO:root:346
+INFO:root:True
+INFO:root:Digit found! 8, at (7,62)
+INFO:root:876
+INFO:root:True
+INFO:root:Digit found! 7, at (7,78)
+INFO:root:725
+INFO:root:True
+INFO:root:Digit found! 3, at (7,94)
+INFO:root:376
+INFO:root:True
+INFO:root:Digit found! 5, at (7,119)
+INFO:root:541
+INFO:root:True
+INFO:root:Digit found! 6, at (7,125)
+INFO:root:600
+INFO:root:True
+INFO:root:Digit found! 3, at (7,133)
+INFO:root:366
+INFO:root:True
+INFO:root:Digit found! 7, at (8,5)
+INFO:root:747
+INFO:root:True
+INFO:root:Digit found! 5, at (8,29)
+INFO:root:56
+INFO:root:True
+INFO:root:Digit found! 1, at (8,35)
+INFO:root:10
+INFO:root:True
+INFO:root:Digit found! 4, at (8,45)
+INFO:root:422
+INFO:root:True
+INFO:root:Digit found! 8, at (8,58)
+INFO:root:86
+INFO:root:True
+INFO:root:Digit found! 7, at (8,89)
+INFO:root:728
+INFO:root:True
+INFO:root:Digit found! 4, at (9,9)
+INFO:root:486
+INFO:root:True
+INFO:root:Digit found! 3, at (9,21)
+INFO:root:349
+INFO:root:True
+INFO:root:Digit found! 6, at (9,54)
+INFO:root:696
+INFO:root:True
+INFO:root:Digit found! 8, at (9,75)
+INFO:root:850
+INFO:root:True
+INFO:root:Digit found! 9, at (9,85)
+INFO:root:906
+INFO:root:True
+INFO:root:Digit found! 8, at (9,95)
+INFO:root:831
+INFO:root:True
+INFO:root:Digit found! 5, at (9,103)
+INFO:root:539
+INFO:root:True
+INFO:root:Digit found! 1, at (9,107)
+INFO:root:195
+INFO:root:True
+INFO:root:Digit found! 2, at (9,119)
+INFO:root:202
+INFO:root:True
+INFO:root:Digit found! 5, at (10,14)
+INFO:root:592
+INFO:root:True
+INFO:root:Digit found! 5, at (10,62)
+INFO:root:592
+INFO:root:True
+INFO:root:Digit found! 8, at (10,71)
+INFO:root:847
+INFO:root:True
+INFO:root:Digit found! 6, at (10,81)
+INFO:root:676
+INFO:root:True
+INFO:root:Digit found! 3, at (10,90)
+INFO:root:365
+INFO:root:False
+INFO:root:Digit found! 4, at (10,127)
+INFO:root:469
+INFO:root:True
+INFO:root:Digit found! 5, at (11,1)
+INFO:root:542
+INFO:root:False
+INFO:root:Digit found! 3, at (11,32)
+INFO:root:385
+INFO:root:False
+INFO:root:Digit found! 6, at (11,39)
+INFO:root:60
+INFO:root:False
+INFO:root:Digit found! 3, at (11,58)
+INFO:root:329
+INFO:root:True
+INFO:root:Digit found! 6, at (11,67)
+INFO:root:657
+INFO:root:True
+INFO:root:Digit found! 3, at (11,99)
+INFO:root:355
+INFO:root:False
+INFO:root:Digit found! 5, at (11,116)
+INFO:root:52
+INFO:root:True
+INFO:root:Digit found! 3, at (11,132)
+INFO:root:352
+INFO:root:True
+INFO:root:Digit found! 9, at (12,13)
+INFO:root:994
+INFO:root:True
+INFO:root:Digit found! 9, at (12,22)
+INFO:root:937
+INFO:root:False
+INFO:root:Digit found! 4, at (12,44)
+INFO:root:45
+INFO:root:True
+INFO:root:Digit found! 4, at (12,51)
+INFO:root:48
+INFO:root:True
+INFO:root:Digit found! 8, at (12,76)
+INFO:root:835
+INFO:root:True
+INFO:root:Digit found! 7, at (12,82)
+INFO:root:791
+INFO:root:True
+INFO:root:Digit found! 6, at (12,87)
+INFO:root:654
+INFO:root:True
+INFO:root:Digit found! 7, at (12,110)
+INFO:root:75
+INFO:root:True
+INFO:root:Digit found! 5, at (12,125)
+INFO:root:523
+INFO:root:True
+INFO:root:Digit found! 2, at (13,34)
+INFO:root:269
+INFO:root:True
+INFO:root:Digit found! 4, at (13,38)
+INFO:root:486
+INFO:root:True
+INFO:root:Digit found! 9, at (13,62)
+INFO:root:954
+INFO:root:True
+INFO:root:Digit found! 2, at (13,99)
+INFO:root:246
+INFO:root:True
+INFO:root:Digit found! 2, at (13,121)
+INFO:root:203
+INFO:root:True
+INFO:root:Digit found! 6, at (13,130)
+INFO:root:693
+INFO:root:True
+INFO:root:Digit found! 2, at (14,5)
+INFO:root:262
+INFO:root:True
+INFO:root:Digit found! 9, at (14,18)
+INFO:root:920
+INFO:root:True
+INFO:root:Digit found! 2, at (14,24)
+INFO:root:248
+INFO:root:True
+INFO:root:Digit found! 4, at (14,28)
+INFO:root:454
+INFO:root:False
+INFO:root:Digit found! 2, at (14,49)
+INFO:root:289
+INFO:root:True
+INFO:root:Digit found! 8, at (14,55)
+INFO:root:822
+INFO:root:True
+INFO:root:Digit found! 5, at (14,67)
+INFO:root:530
+INFO:root:True
+INFO:root:Digit found! 5, at (14,73)
+INFO:root:569
+INFO:root:True
+INFO:root:Digit found! 2, at (14,106)
+INFO:root:256
+INFO:root:True
+INFO:root:Digit found! 9, at (14,116)
+INFO:root:929
+INFO:root:True
+INFO:root:Digit found! 5, at (15,85)
+INFO:root:57
+INFO:root:False
+INFO:root:Digit found! 6, at (15,101)
+INFO:root:616
+INFO:root:True
+INFO:root:Digit found! 4, at (15,120)
+INFO:root:462
+INFO:root:True
+INFO:root:Digit found! 1, at (15,126)
+INFO:root:198
+INFO:root:False
+INFO:root:Digit found! 7, at (15,130)
+INFO:root:757
+INFO:root:True
+INFO:root:Digit found! 6, at (16,15)
+INFO:root:65
+INFO:root:True
+INFO:root:Digit found! 7, at (16,35)
+INFO:root:764
+INFO:root:True
+INFO:root:Digit found! 5, at (16,45)
+INFO:root:581
+INFO:root:True
+INFO:root:Digit found! 7, at (16,49)
+INFO:root:727
+INFO:root:True
+INFO:root:Digit found! 6, at (16,60)
+INFO:root:62
+INFO:root:True
+INFO:root:Digit found! 4, at (16,69)
+INFO:root:4
+INFO:root:True
+INFO:root:Digit found! 9, at (16,76)
+INFO:root:96
+INFO:root:False
+INFO:root:Digit found! 2, at (16,80)
+INFO:root:280
+INFO:root:True
+INFO:root:Digit found! 4, at (16,89)
+INFO:root:444
+INFO:root:True
+INFO:root:Digit found! 8, at (16,93)
+INFO:root:807
+INFO:root:True
+INFO:root:Digit found! 1, at (16,111)
+INFO:root:174
+INFO:root:True
+INFO:root:Digit found! 2, at (16,116)
+INFO:root:20
+INFO:root:True
+INFO:root:Digit found! 5, at (16,134)
+INFO:root:512
+INFO:root:True
+INFO:root:Digit found! 8, at (17,9)
+INFO:root:877
+INFO:root:True
+INFO:root:Digit found! 6, at (17,20)
+INFO:root:687
+INFO:root:True
+INFO:root:Digit found! 1, at (17,25)
+INFO:root:187
+INFO:root:True
+INFO:root:Digit found! 5, at (17,29)
+INFO:root:522
+INFO:root:True
+INFO:root:Digit found! 8, at (17,39)
+INFO:root:853
+INFO:root:True
+INFO:root:Digit found! 3, at (17,53)
+INFO:root:321
+INFO:root:True
+INFO:root:Digit found! 3, at (17,71)
+INFO:root:345
+INFO:root:True
+INFO:root:Digit found! 5, at (17,85)
+INFO:root:513
+INFO:root:True
+INFO:root:Digit found! 8, at (17,101)
+INFO:root:849
+INFO:root:True
+INFO:root:Digit found! 6, at (18,13)
+INFO:root:635
+INFO:root:True
+INFO:root:Digit found! 3, at (18,62)
+INFO:root:380
+INFO:root:True
+INFO:root:Digit found! 7, at (18,76)
+INFO:root:77
+INFO:root:True
+INFO:root:Digit found! 4, at (18,81)
+INFO:root:44
+INFO:root:True
+INFO:root:Digit found! 4, at (18,117)
+INFO:root:484
+INFO:root:True
+INFO:root:Digit found! 6, at (18,125)
+INFO:root:65
+INFO:root:True
+INFO:root:Digit found! 8, at (18,128)
+INFO:root:886
+INFO:root:True
+INFO:root:Digit found! 1, at (19,5)
+INFO:root:153
+INFO:root:True
+INFO:root:Digit found! 3, at (19,25)
+INFO:root:320
+INFO:root:True
+INFO:root:Digit found! 9, at (19,36)
+INFO:root:96
+INFO:root:True
+INFO:root:Digit found! 6, at (19,40)
+INFO:root:619
+INFO:root:True
+INFO:root:Digit found! 5, at (19,47)
+INFO:root:510
+INFO:root:True
+INFO:root:Digit found! 2, at (19,56)
+INFO:root:221
+INFO:root:False
+INFO:root:Digit found! 1, at (19,72)
+INFO:root:139
+INFO:root:True
+INFO:root:Digit found! 9, at (19,86)
+INFO:root:957
+INFO:root:True
+INFO:root:Digit found! 9, at (19,91)
+INFO:root:977
+INFO:root:True
+INFO:root:Digit found! 2, at (19,100)
+INFO:root:20
+INFO:root:False
+INFO:root:Digit found! 2, at (19,107)
+INFO:root:232
+INFO:root:True
+INFO:root:Digit found! 2, at (19,111)
+INFO:root:20
+INFO:root:True
+INFO:root:Digit found! 3, at (20,10)
+INFO:root:397
+INFO:root:True
+INFO:root:Digit found! 6, at (20,15)
+INFO:root:610
+INFO:root:True
+INFO:root:Digit found! 4, at (20,20)
+INFO:root:479
+INFO:root:True
+INFO:root:Digit found! 8, at (20,64)
+INFO:root:839
+INFO:root:False
+INFO:root:Digit found! 1, at (20,122)
+INFO:root:144
+INFO:root:True
+INFO:root:Digit found! 5, at (20,134)
+INFO:root:554
+INFO:root:True
+INFO:root:Digit found! 5, at (21,2)
+INFO:root:510
+INFO:root:False
+INFO:root:Digit found! 9, at (21,24)
+INFO:root:927
+INFO:root:True
+INFO:root:Digit found! 3, at (21,32)
+INFO:root:384
+INFO:root:True
+INFO:root:Digit found! 7, at (21,43)
+INFO:root:714
+INFO:root:True
+INFO:root:Digit found! 2, at (21,49)
+INFO:root:286
+INFO:root:True
+INFO:root:Digit found! 7, at (21,72)
+INFO:root:799
+INFO:root:True
+INFO:root:Digit found! 7, at (21,80)
+INFO:root:733
+INFO:root:True
+INFO:root:Digit found! 8, at (21,92)
+INFO:root:832
+INFO:root:True
+INFO:root:Digit found! 8, at (21,101)
+INFO:root:815
+INFO:root:True
+INFO:root:Digit found! 1, at (21,105)
+INFO:root:187
+INFO:root:True
+INFO:root:Digit found! 4, at (21,118)
+INFO:root:470
+INFO:root:True
+INFO:root:Digit found! 8, at (22,8)
+INFO:root:892
+INFO:root:True
+INFO:root:Digit found! 6, at (22,61)
+INFO:root:645
+INFO:root:False
+INFO:root:Digit found! 4, at (22,65)
+INFO:root:427
+INFO:root:True
+INFO:root:Digit found! 5, at (22,88)
+INFO:root:562
+INFO:root:False
+INFO:root:Digit found! 1, at (22,110)
+INFO:root:133
+INFO:root:True
+INFO:root:Digit found! 4, at (22,114)
+INFO:root:442
+INFO:root:True
+INFO:root:Digit found! 9, at (22,122)
+INFO:root:906
+INFO:root:True
+INFO:root:Digit found! 8, at (23,20)
+INFO:root:803
+INFO:root:True
+INFO:root:Digit found! 5, at (23,35)
+INFO:root:577
+INFO:root:False
+INFO:root:Digit found! 4, at (23,51)
+INFO:root:447
+INFO:root:False
+INFO:root:Digit found! 1, at (23,56)
+INFO:root:185
+INFO:root:False
+INFO:root:Digit found! 9, at (23,69)
+INFO:root:957
+INFO:root:True
+INFO:root:Digit found! 6, at (23,73)
+INFO:root:637
+INFO:root:True
+INFO:root:Digit found! 9, at (23,77)
+INFO:root:97
+INFO:root:True
+INFO:root:Digit found! 1, at (23,93)
+INFO:root:132
+INFO:root:True
+INFO:root:Digit found! 8, at (23,127)
+INFO:root:83
+INFO:root:True
+INFO:root:Digit found! 2, at (23,130)
+INFO:root:258
+INFO:root:True
+INFO:root:Digit found! 5, at (24,12)
+INFO:root:55
+INFO:root:True
+INFO:root:Digit found! 4, at (24,29)
+INFO:root:435
+INFO:root:True
+INFO:root:Digit found! 9, at (24,39)
+INFO:root:930
+INFO:root:True
+INFO:root:Digit found! 1, at (24,45)
+INFO:root:143
+INFO:root:True
+INFO:root:Digit found! 4, at (24,61)
+INFO:root:475
+INFO:root:True
+INFO:root:Digit found! 6, at (24,122)
+INFO:root:675
+INFO:root:True
+INFO:root:Digit found! 7, at (24,135)
+INFO:root:709
+INFO:root:True
+INFO:root:Digit found! 7, at (25,0)
+INFO:root:777
+INFO:root:False
+INFO:root:Digit found! 8, at (25,23)
+INFO:root:841
+INFO:root:True
+INFO:root:Digit found! 8, at (25,82)
+INFO:root:859
+INFO:root:True
+INFO:root:Digit found! 6, at (25,106)
+INFO:root:640
+INFO:root:True
+INFO:root:Digit found! 9, at (25,112)
+INFO:root:955
+INFO:root:True
+INFO:root:Digit found! 9, at (25,117)
+INFO:root:903
+INFO:root:True
+INFO:root:Digit found! 6, at (26,14)
+INFO:root:639
+INFO:root:True
+INFO:root:Digit found! 8, at (26,29)
+INFO:root:803
+INFO:root:True
+INFO:root:Digit found! 8, at (26,33)
+INFO:root:829
+INFO:root:True
+INFO:root:Digit found! 8, at (26,41)
+INFO:root:877
+INFO:root:True
+INFO:root:Digit found! 7, at (26,62)
+INFO:root:716
+INFO:root:True
+INFO:root:Digit found! 8, at (26,69)
+INFO:root:873
+INFO:root:True
+INFO:root:Digit found! 3, at (26,76)
+INFO:root:387
+INFO:root:True
+INFO:root:Digit found! 8, at (26,88)
+INFO:root:857
+INFO:root:True
+INFO:root:Digit found! 8, at (26,93)
+INFO:root:837
+INFO:root:True
+INFO:root:Digit found! 3, at (26,121)
+INFO:root:390
+INFO:root:True
+INFO:root:Digit found! 9, at (27,49)
+INFO:root:994
+INFO:root:True
+INFO:root:Digit found! 7, at (27,101)
+INFO:root:749
+INFO:root:True
+INFO:root:Digit found! 7, at (27,113)
+INFO:root:718
+INFO:root:True
+INFO:root:Digit found! 1, at (27,117)
+INFO:root:174
+INFO:root:True
+INFO:root:Digit found! 1, at (27,125)
+INFO:root:138
+INFO:root:True
+INFO:root:Digit found! 6, at (27,130)
+INFO:root:697
+INFO:root:True
+INFO:root:Digit found! 4, at (27,136)
+INFO:root:463
+INFO:root:False
+INFO:root:Digit found! 6, at (28,21)
+INFO:root:697
+INFO:root:True
+INFO:root:Digit found! 8, at (28,27)
+INFO:root:873
+INFO:root:True
+INFO:root:Digit found! 4, at (28,32)
+INFO:root:435
+INFO:root:True
+INFO:root:Digit found! 1, at (28,42)
+INFO:root:141
+INFO:root:True
+INFO:root:Digit found! 9, at (28,56)
+INFO:root:914
+INFO:root:True
+INFO:root:Digit found! 6, at (28,60)
+INFO:root:656
+INFO:root:True
+INFO:root:Digit found! 4, at (28,74)
+INFO:root:414
+INFO:root:True
+INFO:root:Digit found! 9, at (28,79)
+INFO:root:981
+INFO:root:True
+INFO:root:Digit found! 5, at (28,87)
+INFO:root:541
+INFO:root:True
+INFO:root:Digit found! 5, at (29,38)
+INFO:root:544
+INFO:root:True
+INFO:root:Digit found! 5, at (29,48)
+INFO:root:524
+INFO:root:True
+INFO:root:Digit found! 4, at (29,64)
+INFO:root:446
+INFO:root:True
+INFO:root:Digit found! 3, at (29,92)
+INFO:root:397
+INFO:root:True
+INFO:root:Digit found! 4, at (29,97)
+INFO:root:486
+INFO:root:True
+INFO:root:Digit found! 6, at (29,104)
+INFO:root:603
+INFO:root:True
+INFO:root:Digit found! 4, at (29,108)
+INFO:root:463
+INFO:root:True
+INFO:root:Digit found! 4, at (29,117)
+INFO:root:497
+INFO:root:True
+INFO:root:Digit found! 1, at (30,9)
+INFO:root:161
+INFO:root:True
+INFO:root:Digit found! 4, at (30,20)
+INFO:root:412
+INFO:root:True
+INFO:root:Digit found! 2, at (30,27)
+INFO:root:273
+INFO:root:True
+INFO:root:Digit found! 2, at (30,32)
+INFO:root:218
+INFO:root:True
+INFO:root:Digit found! 8, at (30,52)
+INFO:root:80
+INFO:root:True
+INFO:root:Digit found! 7, at (30,82)
+INFO:root:708
+INFO:root:True
+INFO:root:Digit found! 8, at (30,113)
+INFO:root:899
+INFO:root:True
+INFO:root:Digit found! 4, at (31,15)
+INFO:root:435
+INFO:root:True
+INFO:root:Digit found! 6, at (31,41)
+INFO:root:666
+INFO:root:False
+INFO:root:Digit found! 4, at (31,46)
+INFO:root:401
+INFO:root:True
+INFO:root:Digit found! 8, at (31,55)
+INFO:root:897
+INFO:root:True
+INFO:root:Digit found! 2, at (31,59)
+INFO:root:214
+INFO:root:True
+INFO:root:Digit found! 4, at (31,64)
+INFO:root:472
+INFO:root:True
+INFO:root:Digit found! 4, at (31,69)
+INFO:root:499
+INFO:root:True
+INFO:root:Digit found! 9, at (31,88)
+INFO:root:955
+INFO:root:True
+INFO:root:Digit found! 8, at (31,117)
+INFO:root:867
+INFO:root:False
+INFO:root:Digit found! 6, at (31,124)
+INFO:root:607
+INFO:root:True
+INFO:root:Digit found! 4, at (31,128)
+INFO:root:491
+INFO:root:True
+INFO:root:Digit found! 4, at (31,133)
+INFO:root:43
+INFO:root:True
+INFO:root:Digit found! 6, at (32,0)
+INFO:root:666
+INFO:root:True
+INFO:root:Digit found! 8, at (32,5)
+INFO:root:851
+INFO:root:False
+INFO:root:Digit found! 6, at (32,10)
+INFO:root:653
+INFO:root:True
+INFO:root:Digit found! 4, at (32,19)
+INFO:root:44
+INFO:root:True
+INFO:root:Digit found! 1, at (32,36)
+INFO:root:152
+INFO:root:True
+INFO:root:Digit found! 2, at (32,81)
+INFO:root:294
+INFO:root:True
+INFO:root:Digit found! 3, at (32,93)
+INFO:root:313
+INFO:root:True
+INFO:root:Digit found! 2, at (32,99)
+INFO:root:237
+INFO:root:True
+INFO:root:Digit found! 5, at (32,106)
+INFO:root:580
+INFO:root:True
+INFO:root:Digit found! 9, at (33,28)
+INFO:root:989
+INFO:root:True
+INFO:root:Digit found! 9, at (33,41)
+INFO:root:954
+INFO:root:True
+INFO:root:Digit found! 6, at (33,49)
+INFO:root:69
+INFO:root:True
+INFO:root:Digit found! 4, at (33,56)
+INFO:root:488
+INFO:root:True
+INFO:root:Digit found! 9, at (33,69)
+INFO:root:90
+INFO:root:True
+INFO:root:Digit found! 4, at (33,72)
+INFO:root:495
+INFO:root:True
+INFO:root:Digit found! 6, at (33,86)
+INFO:root:697
+INFO:root:True
+INFO:root:Digit found! 6, at (33,110)
+INFO:root:686
+INFO:root:True
+INFO:root:Digit found! 5, at (33,128)
+INFO:root:594
+INFO:root:True
+INFO:root:Digit found! 9, at (33,132)
+INFO:root:981
+INFO:root:True
+INFO:root:Digit found! 1, at (34,5)
+INFO:root:104
+INFO:root:True
+INFO:root:Digit found! 7, at (34,36)
+INFO:root:773
+INFO:root:True
+INFO:root:Digit found! 3, at (34,52)
+INFO:root:396
+INFO:root:True
+INFO:root:Digit found! 9, at (34,60)
+INFO:root:959
+INFO:root:True
+INFO:root:Digit found! 2, at (34,76)
+INFO:root:272
+INFO:root:True
+INFO:root:Digit found! 4, at (34,90)
+INFO:root:433
+INFO:root:True
+INFO:root:Digit found! 8, at (34,101)
+INFO:root:889
+INFO:root:True
+INFO:root:Digit found! 8, at (34,105)
+INFO:root:821
+INFO:root:True
+INFO:root:Digit found! 7, at (34,114)
+INFO:root:759
+INFO:root:True
+INFO:root:Digit found! 4, at (34,118)
+INFO:root:469
+INFO:root:True
+INFO:root:Digit found! 8, at (35,10)
+INFO:root:865
+INFO:root:True
+INFO:root:Digit found! 3, at (35,14)
+INFO:root:318
+INFO:root:True
+INFO:root:Digit found! 8, at (35,19)
+INFO:root:812
+INFO:root:True
+INFO:root:Digit found! 2, at (35,46)
+INFO:root:267
+INFO:root:True
+INFO:root:Digit found! 9, at (35,64)
+INFO:root:969
+INFO:root:False
+INFO:root:Digit found! 7, at (35,96)
+INFO:root:758
+INFO:root:False
+INFO:root:Digit found! 9, at (35,123)
+INFO:root:913
+INFO:root:True
+INFO:root:Digit found! 6, at (35,134)
+INFO:root:646
+INFO:root:False
+INFO:root:Digit found! 1, at (36,6)
+INFO:root:132
+INFO:root:True
+INFO:root:Digit found! 6, at (36,26)
+INFO:root:699
+INFO:root:True
+INFO:root:Digit found! 1, at (36,59)
+INFO:root:126
+INFO:root:False
+INFO:root:Digit found! 4, at (36,68)
+INFO:root:468
+INFO:root:True
+INFO:root:Digit found! 6, at (36,76)
+INFO:root:651
+INFO:root:True
+INFO:root:Digit found! 4, at (36,91)
+INFO:root:424
+INFO:root:True
+INFO:root:Digit found! 2, at (36,102)
+INFO:root:270
+INFO:root:True
+INFO:root:Digit found! 7, at (36,106)
+INFO:root:765
+INFO:root:True
+INFO:root:Digit found! 5, at (36,114)
+INFO:root:53
+INFO:root:True
+INFO:root:Digit found! 9, at (36,119)
+INFO:root:965
+INFO:root:True
+INFO:root:Digit found! 1, at (36,127)
+INFO:root:19
+INFO:root:True
+INFO:root:Digit found! 7, at (37,14)
+INFO:root:725
+INFO:root:True
+INFO:root:Digit found! 4, at (37,22)
+INFO:root:449
+INFO:root:True
+INFO:root:Digit found! 3, at (37,32)
+INFO:root:337
+INFO:root:True
+INFO:root:Digit found! 1, at (37,37)
+INFO:root:187
+INFO:root:True
+INFO:root:Digit found! 8, at (37,48)
+INFO:root:862
+INFO:root:True
+INFO:root:Digit found! 5, at (37,64)
+INFO:root:553
+INFO:root:True
+INFO:root:Digit found! 2, at (37,82)
+INFO:root:282
+INFO:root:True
+INFO:root:Digit found! 2, at (37,86)
+INFO:root:28
+INFO:root:False
+INFO:root:Digit found! 7, at (37,123)
+INFO:root:779
+INFO:root:True
+INFO:root:Digit found! 2, at (37,133)
+INFO:root:218
+INFO:root:True
+INFO:root:Digit found! 7, at (38,5)
+INFO:root:744
+INFO:root:False
+INFO:root:Digit found! 3, at (38,11)
+INFO:root:36
+INFO:root:False
+INFO:root:Digit found! 2, at (38,18)
+INFO:root:203
+INFO:root:True
+INFO:root:Digit found! 4, at (38,28)
+INFO:root:452
+INFO:root:True
+INFO:root:Digit found! 8, at (38,41)
+INFO:root:846
+INFO:root:True
+INFO:root:Digit found! 8, at (38,91)
+INFO:root:811
+INFO:root:True
+INFO:root:Digit found! 5, at (38,96)
+INFO:root:501
+INFO:root:True
+INFO:root:Digit found! 3, at (38,101)
+INFO:root:342
+INFO:root:True
+INFO:root:Digit found! 8, at (38,107)
+INFO:root:891
+INFO:root:True
+INFO:root:Digit found! 7, at (38,115)
+INFO:root:776
+INFO:root:True
+INFO:root:Digit found! 3, at (38,137)
+INFO:root:395
+INFO:root:True
+INFO:root:Digit found! 5, at (39,23)
+INFO:root:567
+INFO:root:True
+INFO:root:Digit found! 6, at (39,33)
+INFO:root:689
+INFO:root:True
+INFO:root:Digit found! 6, at (39,51)
+INFO:root:619
+INFO:root:True
+INFO:root:Digit found! 3, at (39,56)
+INFO:root:392
+INFO:root:True
+INFO:root:Digit found! 8, at (39,68)
+INFO:root:847
+INFO:root:True
+INFO:root:Digit found! 2, at (39,80)
+INFO:root:236
+INFO:root:True
+INFO:root:Digit found! 8, at (39,84)
+INFO:root:833
+INFO:root:True
+INFO:root:Digit found! 4, at (39,125)
+INFO:root:408
+INFO:root:False
+INFO:root:Digit found! 7, at (40,19)
+INFO:root:732
+INFO:root:False
+INFO:root:Digit found! 5, at (40,74)
+INFO:root:568
+INFO:root:True
+INFO:root:Digit found! 3, at (40,93)
+INFO:root:375
+INFO:root:True
+INFO:root:Digit found! 5, at (40,98)
+INFO:root:561
+INFO:root:True
+INFO:root:Digit found! 2, at (40,104)
+INFO:root:270
+INFO:root:True
+INFO:root:Digit found! 1, at (40,109)
+INFO:root:111
+INFO:root:False
+INFO:root:Digit found! 5, at (40,119)
+INFO:root:565
+INFO:root:True
+INFO:root:Digit found! 8, at (41,11)
+INFO:root:801
+INFO:root:True
+INFO:root:Digit found! 2, at (41,26)
+INFO:root:221
+INFO:root:True
+INFO:root:Digit found! 3, at (41,33)
+INFO:root:336
+INFO:root:True
+INFO:root:Digit found! 4, at (41,39)
+INFO:root:493
+INFO:root:True
+INFO:root:Digit found! 2, at (41,46)
+INFO:root:263
+INFO:root:True
+INFO:root:Digit found! 8, at (41,51)
+INFO:root:81
+INFO:root:True
+INFO:root:Digit found! 9, at (41,59)
+INFO:root:981
+INFO:root:True
+INFO:root:Digit found! 4, at (41,89)
+INFO:root:449
+INFO:root:True
+INFO:root:Digit found! 8, at (41,113)
+INFO:root:809
+INFO:root:True
+INFO:root:Digit found! 2, at (41,123)
+INFO:root:239
+INFO:root:True
+INFO:root:Digit found! 6, at (41,137)
+INFO:root:686
+INFO:root:False
+INFO:root:Digit found! 8, at (42,30)
+INFO:root:87
+INFO:root:True
+INFO:root:Digit found! 5, at (42,54)
+INFO:root:510
+INFO:root:True
+INFO:root:Digit found! 2, at (42,68)
+INFO:root:20
+INFO:root:True
+INFO:root:Digit found! 6, at (42,71)
+INFO:root:684
+INFO:root:True
+INFO:root:Digit found! 3, at (42,80)
+INFO:root:387
+INFO:root:True
+INFO:root:Digit found! 1, at (42,132)
+INFO:root:132
+INFO:root:True
+INFO:root:Digit found! 6, at (43,7)
+INFO:root:674
+INFO:root:False
+INFO:root:Digit found! 3, at (43,19)
+INFO:root:364
+INFO:root:True
+INFO:root:Digit found! 7, at (43,33)
+INFO:root:734
+INFO:root:True
+INFO:root:Digit found! 1, at (43,37)
+INFO:root:141
+INFO:root:True
+INFO:root:Digit found! 8, at (43,41)
+INFO:root:854
+INFO:root:True
+INFO:root:Digit found! 2, at (43,45)
+INFO:root:290
+INFO:root:True
+INFO:root:Digit found! 5, at (43,75)
+INFO:root:572
+INFO:root:True
+INFO:root:Digit found! 8, at (43,86)
+INFO:root:878
+INFO:root:True
+INFO:root:Digit found! 9, at (43,92)
+INFO:root:929
+INFO:root:False
+INFO:root:Digit found! 1, at (43,96)
+INFO:root:141
+INFO:root:False
+INFO:root:Digit found! 5, at (43,108)
+INFO:root:526
+INFO:root:True
+INFO:root:Digit found! 9, at (43,114)
+INFO:root:919
+INFO:root:True
+INFO:root:Digit found! 6, at (43,118)
+INFO:root:646
+INFO:root:True
+INFO:root:Digit found! 9, at (44,14)
+INFO:root:980
+INFO:root:True
+INFO:root:Digit found! 5, at (44,64)
+INFO:root:500
+INFO:root:True
+INFO:root:Digit found! 2, at (44,70)
+INFO:root:229
+INFO:root:True
+INFO:root:Digit found! 8, at (44,79)
+INFO:root:876
+INFO:root:True
+INFO:root:Digit found! 2, at (44,101)
+INFO:root:220
+INFO:root:True
+INFO:root:Digit found! 8, at (44,124)
+INFO:root:809
+INFO:root:True
+INFO:root:Digit found! 5, at (44,133)
+INFO:root:522
+INFO:root:True
+INFO:root:Digit found! 3, at (45,0)
+INFO:root:394
+INFO:root:False
+INFO:root:Digit found! 3, at (45,7)
+INFO:root:374
+INFO:root:True
+INFO:root:Digit found! 1, at (45,32)
+INFO:root:194
+INFO:root:True
+INFO:root:Digit found! 6, at (45,41)
+INFO:root:660
+INFO:root:True
+INFO:root:Digit found! 1, at (45,49)
+INFO:root:172
+INFO:root:True
+INFO:root:Digit found! 7, at (45,84)
+INFO:root:774
+INFO:root:True
+INFO:root:Digit found! 3, at (45,106)
+INFO:root:367
+INFO:root:True
+INFO:root:Digit found! 4, at (45,115)
+INFO:root:452
+INFO:root:True
+INFO:root:Digit found! 9, at (45,120)
+INFO:root:952
+INFO:root:False
+INFO:root:Digit found! 9, at (46,27)
+INFO:root:918
+INFO:root:True
+INFO:root:Digit found! 2, at (46,57)
+INFO:root:220
+INFO:root:False
+INFO:root:Digit found! 7, at (46,68)
+INFO:root:776
+INFO:root:True
+INFO:root:Digit found! 5, at (46,72)
+INFO:root:542
+INFO:root:True
+INFO:root:Digit found! 8, at (46,89)
+INFO:root:843
+INFO:root:False
+INFO:root:Digit found! 8, at (46,94)
+INFO:root:857
+INFO:root:True
+INFO:root:Digit found! 5, at (46,101)
+INFO:root:560
+INFO:root:True
+INFO:root:Digit found! 7, at (47,8)
+INFO:root:728
+INFO:root:True
+INFO:root:Digit found! 9, at (47,19)
+INFO:root:951
+INFO:root:True
+INFO:root:Digit found! 6, at (47,23)
+INFO:root:668
+INFO:root:True
+INFO:root:Digit found! 6, at (47,35)
+INFO:root:651
+INFO:root:False
+INFO:root:Digit found! 5, at (47,44)
+INFO:root:589
+INFO:root:True
+INFO:root:Digit found! 8, at (47,48)
+INFO:root:857
+INFO:root:True
+INFO:root:Digit found! 3, at (47,78)
+INFO:root:354
+INFO:root:True
+INFO:root:Digit found! 5, at (47,85)
+INFO:root:509
+INFO:root:False
+INFO:root:Digit found! 1, at (47,128)
+INFO:root:151
+INFO:root:True
+INFO:root:Digit found! 2, at (48,13)
+INFO:root:262
+INFO:root:True
+INFO:root:Digit found! 9, at (48,32)
+INFO:root:95
+INFO:root:True
+INFO:root:Digit found! 8, at (48,53)
+INFO:root:878
+INFO:root:True
+INFO:root:Digit found! 5, at (48,61)
+INFO:root:563
+INFO:root:True
+INFO:root:Digit found! 6, at (48,65)
+INFO:root:642
+INFO:root:True
+INFO:root:Digit found! 5, at (48,105)
+INFO:root:586
+INFO:root:True
+INFO:root:Digit found! 6, at (48,116)
+INFO:root:638
+INFO:root:True
+INFO:root:Digit found! 9, at (48,121)
+INFO:root:933
+INFO:root:True
+INFO:root:Digit found! 5, at (49,0)
+INFO:root:504
+INFO:root:False
+INFO:root:Digit found! 4, at (49,4)
+INFO:root:454
+INFO:root:True
+INFO:root:Digit found! 5, at (49,27)
+INFO:root:540
+INFO:root:True
+INFO:root:Digit found! 5, at (49,40)
+INFO:root:524
+INFO:root:True
+INFO:root:Digit found! 5, at (49,57)
+INFO:root:531
+INFO:root:True
+INFO:root:Digit found! 9, at (49,71)
+INFO:root:942
+INFO:root:True
+INFO:root:Digit found! 6, at (49,93)
+INFO:root:632
+INFO:root:True
+INFO:root:Digit found! 8, at (49,98)
+INFO:root:830
+INFO:root:True
+INFO:root:Digit found! 3, at (49,110)
+INFO:root:302
+INFO:root:False
+INFO:root:Digit found! 4, at (50,9)
+INFO:root:498
+INFO:root:False
+INFO:root:Digit found! 3, at (50,14)
+INFO:root:357
+INFO:root:True
+INFO:root:Digit found! 3, at (50,51)
+INFO:root:340
+INFO:root:True
+INFO:root:Digit found! 9, at (50,63)
+INFO:root:925
+INFO:root:False
+INFO:root:Digit found! 6, at (50,78)
+INFO:root:623
+INFO:root:True
+INFO:root:Digit found! 7, at (50,82)
+INFO:root:707
+INFO:root:True
+INFO:root:Digit found! 4, at (50,86)
+INFO:root:479
+INFO:root:True
+INFO:root:Digit found! 3, at (50,102)
+INFO:root:36
+INFO:root:True
+INFO:root:Digit found! 6, at (50,123)
+INFO:root:659
+INFO:root:True
+INFO:root:Digit found! 1, at (50,127)
+INFO:root:149
+INFO:root:True
+INFO:root:Digit found! 4, at (50,131)
+INFO:root:401
+INFO:root:True
+INFO:root:Digit found! 1, at (50,135)
+INFO:root:117
+INFO:root:True
+INFO:root:Digit found! 3, at (51,0)
+INFO:root:34
+INFO:root:False
+INFO:root:Digit found! 6, at (51,20)
+INFO:root:608
+INFO:root:False
+INFO:root:Digit found! 1, at (51,28)
+INFO:root:156
+INFO:root:True
+INFO:root:Digit found! 7, at (51,32)
+INFO:root:747
+INFO:root:True
+INFO:root:Digit found! 6, at (51,38)
+INFO:root:602
+INFO:root:True
+INFO:root:Digit found! 7, at (51,73)
+INFO:root:748
+INFO:root:True
+INFO:root:Digit found! 5, at (51,109)
+INFO:root:565
+INFO:root:True
+INFO:root:Digit found! 9, at (51,117)
+INFO:root:93
+INFO:root:True
+INFO:root:Digit found! 4, at (52,8)
+INFO:root:426
+INFO:root:False
+INFO:root:Digit found! 6, at (52,44)
+INFO:root:60
+INFO:root:True
+INFO:root:Digit found! 9, at (52,47)
+INFO:root:938
+INFO:root:True
+INFO:root:Digit found! 6, at (52,77)
+INFO:root:615
+INFO:root:True
+INFO:root:Digit found! 3, at (52,81)
+INFO:root:328
+INFO:root:True
+INFO:root:Digit found! 8, at (52,89)
+INFO:root:818
+INFO:root:True
+INFO:root:Digit found! 1, at (52,96)
+INFO:root:143
+INFO:root:True
+INFO:root:Digit found! 1, at (52,100)
+INFO:root:118
+INFO:root:True
+INFO:root:Digit found! 9, at (52,135)
+INFO:root:916
+INFO:root:True
+INFO:root:Digit found! 5, at (53,15)
+INFO:root:547
+INFO:root:False
+INFO:root:Digit found! 2, at (53,32)
+INFO:root:25
+INFO:root:True
+INFO:root:Digit found! 3, at (53,35)
+INFO:root:32
+INFO:root:True
+INFO:root:Digit found! 6, at (53,55)
+INFO:root:64
+INFO:root:True
+INFO:root:Digit found! 8, at (53,60)
+INFO:root:813
+INFO:root:True
+INFO:root:Digit found! 4, at (53,73)
+INFO:root:405
+INFO:root:True
+INFO:root:Digit found! 8, at (53,85)
+INFO:root:802
+INFO:root:True
+INFO:root:Digit found! 1, at (53,104)
+INFO:root:188
+INFO:root:True
+INFO:root:Digit found! 2, at (53,119)
+INFO:root:246
+INFO:root:True
+INFO:root:Digit found! 2, at (53,123)
+INFO:root:236
+INFO:root:True
+INFO:root:Digit found! 6, at (54,0)
+INFO:root:652
+INFO:root:False
+INFO:root:Digit found! 4, at (54,20)
+INFO:root:426
+INFO:root:True
+INFO:root:Digit found! 7, at (54,42)
+INFO:root:74
+INFO:root:True
+INFO:root:Digit found! 8, at (54,49)
+INFO:root:822
+INFO:root:True
+INFO:root:Digit found! 5, at (54,77)
+INFO:root:533
+INFO:root:True
+INFO:root:Digit found! 7, at (54,89)
+INFO:root:764
+INFO:root:True
+INFO:root:Digit found! 9, at (55,4)
+INFO:root:920
+INFO:root:True
+INFO:root:Digit found! 6, at (55,8)
+INFO:root:64
+INFO:root:True
+INFO:root:Digit found! 4, at (55,16)
+INFO:root:437
+INFO:root:True
+INFO:root:Digit found! 5, at (55,25)
+INFO:root:598
+INFO:root:True
+INFO:root:Digit found! 7, at (55,32)
+INFO:root:738
+INFO:root:True
+INFO:root:Digit found! 4, at (55,55)
+INFO:root:44
+INFO:root:True
+INFO:root:Digit found! 6, at (55,60)
+INFO:root:625
+INFO:root:True
+INFO:root:Digit found! 8, at (55,71)
+INFO:root:879
+INFO:root:True
+INFO:root:Digit found! 8, at (55,83)
+INFO:root:879
+INFO:root:True
+INFO:root:Digit found! 6, at (55,93)
+INFO:root:668
+INFO:root:True
+INFO:root:Digit found! 5, at (55,105)
+INFO:root:509
+INFO:root:True
+INFO:root:Digit found! 3, at (55,111)
+INFO:root:385
+INFO:root:True
+INFO:root:Digit found! 1, at (55,116)
+INFO:root:123
+INFO:root:True
+INFO:root:Digit found! 6, at (55,123)
+INFO:root:677
+INFO:root:True
+INFO:root:Digit found! 5, at (55,128)
+INFO:root:553
+INFO:root:True
+INFO:root:Digit found! 6, at (55,132)
+INFO:root:62
+INFO:root:False
+INFO:root:Digit found! 7, at (56,11)
+INFO:root:783
+INFO:root:True
+INFO:root:Digit found! 5, at (56,37)
+INFO:root:552
+INFO:root:True
+INFO:root:Digit found! 5, at (56,43)
+INFO:root:534
+INFO:root:True
+INFO:root:Digit found! 3, at (56,67)
+INFO:root:312
+INFO:root:True
+INFO:root:Digit found! 8, at (56,97)
+INFO:root:819
+INFO:root:True
+INFO:root:Digit found! 7, at (57,4)
+INFO:root:779
+INFO:root:True
+INFO:root:Digit found! 2, at (57,19)
+INFO:root:21
+INFO:root:True
+INFO:root:Digit found! 5, at (57,23)
+INFO:root:582
+INFO:root:True
+INFO:root:Digit found! 2, at (57,32)
+INFO:root:264
+INFO:root:True
+INFO:root:Digit found! 5, at (57,58)
+INFO:root:564
+INFO:root:True
+INFO:root:Digit found! 5, at (57,76)
+INFO:root:561
+INFO:root:True
+INFO:root:Digit found! 8, at (57,87)
+INFO:root:811
+INFO:root:True
+INFO:root:Digit found! 9, at (57,117)
+INFO:root:943
+INFO:root:True
+INFO:root:Digit found! 6, at (57,124)
+INFO:root:68
+INFO:root:True
+INFO:root:Digit found! 9, at (58,43)
+INFO:root:915
+INFO:root:True
+INFO:root:Digit found! 4, at (58,47)
+INFO:root:472
+INFO:root:True
+INFO:root:Digit found! 9, at (58,51)
+INFO:root:918
+INFO:root:True
+INFO:root:Digit found! 8, at (58,71)
+INFO:root:848
+INFO:root:True
+INFO:root:Digit found! 9, at (58,81)
+INFO:root:943
+INFO:root:True
+INFO:root:Digit found! 8, at (58,93)
+INFO:root:803
+INFO:root:False
+INFO:root:Digit found! 3, at (58,127)
+INFO:root:386
+INFO:root:True
+INFO:root:Digit found! 6, at (59,27)
+INFO:root:62
+INFO:root:True
+INFO:root:Digit found! 6, at (59,37)
+INFO:root:668
+INFO:root:True
+INFO:root:Digit found! 8, at (59,67)
+INFO:root:801
+INFO:root:True
+INFO:root:Digit found! 8, at (59,97)
+INFO:root:878
+INFO:root:False
+INFO:root:Digit found! 2, at (59,107)
+INFO:root:212
+INFO:root:True
+INFO:root:Digit found! 6, at (59,114)
+INFO:root:613
+INFO:root:True
+INFO:root:Digit found! 2, at (60,7)
+INFO:root:208
+INFO:root:True
+INFO:root:Digit found! 3, at (60,17)
+INFO:root:302
+INFO:root:True
+INFO:root:Digit found! 3, at (60,22)
+INFO:root:313
+INFO:root:True
+INFO:root:Digit found! 7, at (60,52)
+INFO:root:717
+INFO:root:True
+INFO:root:Digit found! 2, at (60,63)
+INFO:root:237
+INFO:root:True
+INFO:root:Digit found! 1, at (60,71)
+INFO:root:11
+INFO:root:True
+INFO:root:Digit found! 5, at (60,82)
+INFO:root:551
+INFO:root:True
+INFO:root:Digit found! 5, at (60,86)
+INFO:root:569
+INFO:root:True
+INFO:root:Digit found! 7, at (60,122)
+INFO:root:717
+INFO:root:True
+INFO:root:Digit found! 7, at (61,3)
+INFO:root:742
+INFO:root:True
+INFO:root:Digit found! 8, at (61,13)
+INFO:root:886
+INFO:root:True
+INFO:root:Digit found! 1, at (61,26)
+INFO:root:15
+INFO:root:True
+INFO:root:Digit found! 4, at (61,29)
+INFO:root:402
+INFO:root:True
+INFO:root:Digit found! 8, at (61,36)
+INFO:root:806
+INFO:root:True
+INFO:root:Digit found! 8, at (61,42)
+INFO:root:84
+INFO:root:True
+INFO:root:Digit found! 5, at (61,47)
+INFO:root:527
+INFO:root:True
+INFO:root:Digit found! 6, at (61,77)
+INFO:root:650
+INFO:root:True
+INFO:root:Digit found! 5, at (61,92)
+INFO:root:56
+INFO:root:True
+INFO:root:Digit found! 4, at (61,99)
+INFO:root:401
+INFO:root:True
+INFO:root:Digit found! 2, at (61,105)
+INFO:root:276
+INFO:root:True
+INFO:root:Digit found! 9, at (61,114)
+INFO:root:964
+INFO:root:True
+INFO:root:Digit found! 4, at (62,52)
+INFO:root:411
+INFO:root:True
+INFO:root:Digit found! 2, at (62,58)
+INFO:root:277
+INFO:root:True
+INFO:root:Digit found! 7, at (62,62)
+INFO:root:722
+INFO:root:True
+INFO:root:Digit found! 3, at (62,66)
+INFO:root:337
+INFO:root:False
+INFO:root:Digit found! 9, at (62,84)
+INFO:root:915
+INFO:root:True
+INFO:root:Digit found! 2, at (62,88)
+INFO:root:252
+INFO:root:True
+INFO:root:Digit found! 3, at (62,128)
+INFO:root:356
+INFO:root:True
+INFO:root:Digit found! 5, at (62,135)
+INFO:root:553
+INFO:root:True
+INFO:root:Digit found! 2, at (63,11)
+INFO:root:2
+INFO:root:True
+INFO:root:Digit found! 0, at (63,22)
+INFO:root:6
+INFO:root:False
+INFO:root:Digit found! 9, at (63,39)
+INFO:root:922
+INFO:root:True
+INFO:root:Digit found! 6, at (63,48)
+INFO:root:605
+INFO:root:True
+INFO:root:Digit found! 4, at (63,76)
+INFO:root:403
+INFO:root:True
+INFO:root:Digit found! 3, at (63,101)
+INFO:root:316
+INFO:root:True
+INFO:root:Digit found! 8, at (63,114)
+INFO:root:84
+INFO:root:True
+INFO:root:Digit found! 3, at (64,7)
+INFO:root:385
+INFO:root:True
+INFO:root:Digit found! 8, at (64,17)
+INFO:root:893
+INFO:root:True
+INFO:root:Digit found! 2, at (64,28)
+INFO:root:200
+INFO:root:True
+INFO:root:Digit found! 1, at (64,43)
+INFO:root:150
+INFO:root:True
+INFO:root:Digit found! 4, at (64,57)
+INFO:root:420
+INFO:root:False
+INFO:root:Digit found! 5, at (64,61)
+INFO:root:548
+INFO:root:True
+INFO:root:Digit found! 1, at (64,72)
+INFO:root:111
+INFO:root:True
+INFO:root:Digit found! 7, at (64,86)
+INFO:root:70
+INFO:root:True
+INFO:root:Digit found! 6, at (64,117)
+INFO:root:675
+INFO:root:True
+INFO:root:Digit found! 8, at (64,121)
+INFO:root:895
+INFO:root:True
+INFO:root:Digit found! 1, at (65,35)
+INFO:root:198
+INFO:root:True
+INFO:root:Digit found! 5, at (65,52)
+INFO:root:532
+INFO:root:True
+INFO:root:Digit found! 2, at (65,66)
+INFO:root:23
+INFO:root:True
+INFO:root:Digit found! 3, at (65,78)
+INFO:root:349
+INFO:root:True
+INFO:root:Digit found! 9, at (65,125)
+INFO:root:920
+INFO:root:True
+INFO:root:Digit found! 8, at (65,137)
+INFO:root:844
+INFO:root:True
+INFO:root:Digit found! 3, at (66,11)
+INFO:root:387
+INFO:root:True
+INFO:root:Digit found! 3, at (66,44)
+INFO:root:31
+INFO:root:False
+INFO:root:Digit found! 6, at (66,48)
+INFO:root:638
+INFO:root:False
+INFO:root:Digit found! 5, at (66,58)
+INFO:root:580
+INFO:root:True
+INFO:root:Digit found! 3, at (66,94)
+INFO:root:397
+INFO:root:True
+INFO:root:Digit found! 7, at (66,99)
+INFO:root:720
+INFO:root:True
+INFO:root:Digit found! 1, at (66,112)
+INFO:root:161
+INFO:root:True
+INFO:root:Digit found! 6, at (66,129)
+INFO:root:628
+INFO:root:True
+INFO:root:Digit found! 8, at (67,6)
+INFO:root:816
+INFO:root:True
+INFO:root:Digit found! 6, at (67,23)
+INFO:root:669
+INFO:root:True
+INFO:root:Digit found! 3, at (67,30)
+INFO:root:36
+INFO:root:True
+INFO:root:Digit found! 3, at (67,35)
+INFO:root:393
+INFO:root:True
+INFO:root:Digit found! 8, at (67,40)
+INFO:root:848
+INFO:root:True
+INFO:root:Digit found! 8, at (67,53)
+INFO:root:884
+INFO:root:True
+INFO:root:Digit found! 6, at (67,70)
+INFO:root:676
+INFO:root:True
+INFO:root:Digit found! 8, at (67,78)
+INFO:root:876
+INFO:root:True
+INFO:root:Digit found! 3, at (67,82)
+INFO:root:341
+INFO:root:True
+INFO:root:Digit found! 5, at (67,88)
+INFO:root:565
+INFO:root:True
+INFO:root:Digit found! 9, at (67,119)
+INFO:root:914
+INFO:root:True
+INFO:root:Digit found! 3, at (67,125)
+INFO:root:356
+INFO:root:True
+INFO:root:Digit found! 2, at (67,133)
+INFO:root:210
+INFO:root:True
+INFO:root:Digit found! 6, at (68,15)
+INFO:root:646
+INFO:root:True
+INFO:root:Digit found! 5, at (68,59)
+INFO:root:542
+INFO:root:False
+INFO:root:Digit found! 3, at (68,98)
+INFO:root:370
+INFO:root:True
+INFO:root:Digit found! 6, at (68,107)
+INFO:root:686
+INFO:root:True
+INFO:root:Digit found! 5, at (68,111)
+INFO:root:567
+INFO:root:True
+INFO:root:Digit found! 9, at (69,19)
+INFO:root:94
+INFO:root:True
+INFO:root:Digit found! 4, at (69,37)
+INFO:root:414
+INFO:root:True
+INFO:root:Digit found! 1, at (69,46)
+INFO:root:18
+INFO:root:True
+INFO:root:Digit found! 8, at (69,77)
+INFO:root:861
+INFO:root:True
+INFO:root:Digit found! 8, at (69,90)
+INFO:root:878
+INFO:root:True
+INFO:root:Digit found! 2, at (69,103)
+INFO:root:24
+INFO:root:True
+INFO:root:Digit found! 8, at (69,119)
+INFO:root:875
+INFO:root:True
+INFO:root:Digit found! 6, at (69,124)
+INFO:root:693
+INFO:root:True
+INFO:root:Digit found! 3, at (69,128)
+INFO:root:320
+INFO:root:True
+INFO:root:Digit found! 8, at (69,133)
+INFO:root:864
+INFO:root:True
+INFO:root:Digit found! 9, at (69,137)
+INFO:root:989
+INFO:root:False
+INFO:root:Digit found! 6, at (70,29)
+INFO:root:665
+INFO:root:True
+INFO:root:Digit found! 5, at (70,50)
+INFO:root:595
+INFO:root:True
+INFO:root:Digit found! 2, at (70,63)
+INFO:root:201
+INFO:root:False
+INFO:root:Digit found! 7, at (70,72)
+INFO:root:738
+INFO:root:False
+INFO:root:Digit found! 7, at (70,81)
+INFO:root:784
+INFO:root:True
+INFO:root:Digit found! 1, at (70,86)
+INFO:root:187
+INFO:root:True
+INFO:root:Digit found! 2, at (70,94)
+INFO:root:237
+INFO:root:True
+INFO:root:Digit found! 2, at (71,6)
+INFO:root:236
+INFO:root:True
+INFO:root:Digit found! 1, at (71,17)
+INFO:root:126
+INFO:root:True
+INFO:root:Digit found! 6, at (71,25)
+INFO:root:641
+INFO:root:True
+INFO:root:Digit found! 4, at (71,46)
+INFO:root:486
+INFO:root:True
+INFO:root:Digit found! 6, at (71,56)
+INFO:root:638
+INFO:root:True
+INFO:root:Digit found! 2, at (71,98)
+INFO:root:242
+INFO:root:True
+INFO:root:Digit found! 1, at (71,106)
+INFO:root:153
+INFO:root:True
+INFO:root:Digit found! 6, at (71,123)
+INFO:root:63
+INFO:root:True
+INFO:root:Digit found! 8, at (71,126)
+INFO:root:837
+INFO:root:True
+INFO:root:Digit found! 7, at (71,130)
+INFO:root:723
+INFO:root:True
+INFO:root:Digit found! 4, at (71,134)
+INFO:root:41
+INFO:root:False
+INFO:root:Digit found! 3, at (72,11)
+INFO:root:35
+INFO:root:False
+INFO:root:Digit found! 1, at (72,33)
+INFO:root:114
+INFO:root:True
+INFO:root:Digit found! 6, at (72,51)
+INFO:root:661
+INFO:root:True
+INFO:root:Digit found! 5, at (72,63)
+INFO:root:534
+INFO:root:True
+INFO:root:Digit found! 6, at (72,75)
+INFO:root:626
+INFO:root:True
+INFO:root:Digit found! 7, at (72,85)
+INFO:root:796
+INFO:root:True
+INFO:root:Digit found! 2, at (72,90)
+INFO:root:28
+INFO:root:True
+INFO:root:Digit found! 5, at (72,102)
+INFO:root:579
+INFO:root:True
+INFO:root:Digit found! 3, at (72,111)
+INFO:root:367
+INFO:root:True
+INFO:root:Digit found! 7, at (72,116)
+INFO:root:78
+INFO:root:True
+INFO:root:Digit found! 9, at (72,119)
+INFO:root:929
+INFO:root:True
+INFO:root:Digit found! 1, at (73,6)
+INFO:root:108
+INFO:root:True
+INFO:root:Digit found! 2, at (73,18)
+INFO:root:271
+INFO:root:True
+INFO:root:Digit found! 1, at (73,22)
+INFO:root:144
+INFO:root:True
+INFO:root:Digit found! 5, at (73,79)
+INFO:root:5
+INFO:root:True
+INFO:root:Digit found! 6, at (73,128)
+INFO:root:69
+INFO:root:False
+INFO:root:Digit found! 5, at (73,131)
+INFO:root:533
+INFO:root:True
+INFO:root:Digit found! 7, at (73,136)
+INFO:root:704
+INFO:root:False
+INFO:root:Digit found! 6, at (74,10)
+INFO:root:635
+INFO:root:True
+INFO:root:Digit found! 9, at (74,33)
+INFO:root:947
+INFO:root:True
+INFO:root:Digit found! 2, at (74,43)
+INFO:root:290
+INFO:root:True
+INFO:root:Digit found! 5, at (74,51)
+INFO:root:544
+INFO:root:True
+INFO:root:Digit found! 7, at (74,67)
+INFO:root:707
+INFO:root:True
+INFO:root:Digit found! 4, at (74,89)
+INFO:root:465
+INFO:root:True
+INFO:root:Digit found! 6, at (74,94)
+INFO:root:632
+INFO:root:True
+INFO:root:Digit found! 7, at (74,102)
+INFO:root:771
+INFO:root:True
+INFO:root:Digit found! 1, at (74,108)
+INFO:root:181
+INFO:root:False
+INFO:root:Digit found! 4, at (74,119)
+INFO:root:471
+INFO:root:True
+INFO:root:Digit found! 3, at (74,123)
+INFO:root:380
+INFO:root:True
+INFO:root:Digit found! 1, at (75,5)
+INFO:root:114
+INFO:root:True
+INFO:root:Digit found! 8, at (75,18)
+INFO:root:89
+INFO:root:True
+INFO:root:Digit found! 6, at (75,26)
+INFO:root:699
+INFO:root:True
+INFO:root:Digit found! 4, at (75,60)
+INFO:root:416
+INFO:root:True
+INFO:root:Digit found! 3, at (75,114)
+INFO:root:365
+INFO:root:True
+INFO:root:Digit found! 1, at (75,132)
+INFO:root:131
+INFO:root:True
+INFO:root:Digit found! 4, at (76,37)
+INFO:root:410
+INFO:root:True
+INFO:root:Digit found! 6, at (76,44)
+INFO:root:64
+INFO:root:True
+INFO:root:Digit found! 6, at (76,77)
+INFO:root:684
+INFO:root:True
+INFO:root:Digit found! 1, at (76,85)
+INFO:root:15
+INFO:root:True
+INFO:root:Digit found! 3, at (76,92)
+INFO:root:317
+INFO:root:True
+INFO:root:Digit found! 3, at (76,98)
+INFO:root:340
+INFO:root:True
+INFO:root:Digit found! 2, at (77,9)
+INFO:root:26
+INFO:root:False
+INFO:root:Digit found! 6, at (77,12)
+INFO:root:609
+INFO:root:False
+INFO:root:Digit found! 1, at (77,23)
+INFO:root:152
+INFO:root:True
+INFO:root:Digit found! 9, at (77,50)
+INFO:root:94
+INFO:root:True
+INFO:root:Digit found! 4, at (77,53)
+INFO:root:498
+INFO:root:True
+INFO:root:Digit found! 2, at (77,61)
+INFO:root:26
+INFO:root:True
+INFO:root:Digit found! 6, at (77,69)
+INFO:root:671
+INFO:root:True
+INFO:root:Digit found! 2, at (77,81)
+INFO:root:221
+INFO:root:True
+INFO:root:Digit found! 7, at (77,102)
+INFO:root:718
+INFO:root:True
+INFO:root:Digit found! 8, at (77,108)
+INFO:root:824
+INFO:root:True
+INFO:root:Digit found! 5, at (77,116)
+INFO:root:56
+INFO:root:True
+INFO:root:Digit found! 9, at (77,129)
+INFO:root:915
+INFO:root:False
+INFO:root:Digit found! 2, at (78,2)
+INFO:root:218
+INFO:root:False
+INFO:root:Digit found! 7, at (78,19)
+INFO:root:707
+INFO:root:True
+INFO:root:Digit found! 7, at (78,30)
+INFO:root:786
+INFO:root:False
+INFO:root:Digit found! 8, at (78,38)
+INFO:root:839
+INFO:root:True
+INFO:root:Digit found! 7, at (78,57)
+INFO:root:790
+INFO:root:True
+INFO:root:Digit found! 1, at (78,65)
+INFO:root:192
+INFO:root:True
+INFO:root:Digit found! 1, at (78,77)
+INFO:root:181
+INFO:root:True
+INFO:root:Digit found! 8, at (78,86)
+INFO:root:836
+INFO:root:True
+INFO:root:Digit found! 2, at (78,93)
+INFO:root:287
+INFO:root:True
+INFO:root:Digit found! 9, at (79,6)
+INFO:root:937
+INFO:root:True
+INFO:root:Digit found! 7, at (79,10)
+INFO:root:722
+INFO:root:True
+INFO:root:Digit found! 3, at (79,42)
+INFO:root:378
+INFO:root:True
+INFO:root:Digit found! 4, at (79,69)
+INFO:root:449
+INFO:root:True
+INFO:root:Digit found! 2, at (79,99)
+INFO:root:226
+INFO:root:True
+INFO:root:Digit found! 4, at (79,125)
+INFO:root:428
+INFO:root:True
+INFO:root:Digit found! 3, at (79,135)
+INFO:root:341
+INFO:root:True
+INFO:root:Digit found! 7, at (80,1)
+INFO:root:795
+INFO:root:True
+INFO:root:Digit found! 1, at (80,15)
+INFO:root:185
+INFO:root:True
+INFO:root:Digit found! 4, at (80,20)
+INFO:root:405
+INFO:root:True
+INFO:root:Digit found! 6, at (80,28)
+INFO:root:60
+INFO:root:True
+INFO:root:Digit found! 1, at (80,31)
+INFO:root:121
+INFO:root:False
+INFO:root:Digit found! 1, at (80,38)
+INFO:root:159
+INFO:root:True
+INFO:root:Digit found! 2, at (80,48)
+INFO:root:275
+INFO:root:True
+INFO:root:Digit found! 9, at (80,54)
+INFO:root:996
+INFO:root:True
+INFO:root:Digit found! 9, at (80,74)
+INFO:root:981
+INFO:root:True
+INFO:root:Digit found! 7, at (80,82)
+INFO:root:710
+INFO:root:True
+INFO:root:Digit found! 3, at (80,93)
+INFO:root:363
+INFO:root:False
+INFO:root:Digit found! 5, at (80,103)
+INFO:root:528
+INFO:root:True
+INFO:root:Digit found! 8, at (80,112)
+INFO:root:888
+INFO:root:True
+INFO:root:Digit found! 6, at (80,120)
+INFO:root:641
+INFO:root:True
+INFO:root:Digit found! 8, at (80,131)
+INFO:root:880
+INFO:root:True
+INFO:root:Digit found! 8, at (81,6)
+INFO:root:806
+INFO:root:True
+INFO:root:Digit found! 5, at (81,58)
+INFO:root:545
+INFO:root:True
+INFO:root:Digit found! 4, at (81,63)
+INFO:root:467
+INFO:root:True
+INFO:root:Digit found! 2, at (81,69)
+INFO:root:289
+INFO:root:True
+INFO:root:Digit found! 6, at (81,89)
+INFO:root:681
+INFO:root:True
+INFO:root:Digit found! 8, at (81,108)
+INFO:root:86
+INFO:root:True
+INFO:root:Digit found! 3, at (81,116)
+INFO:root:326
+INFO:root:True
+INFO:root:Digit found! 6, at (81,126)
+INFO:root:664
+INFO:root:True
+INFO:root:Digit found! 2, at (82,13)
+INFO:root:221
+INFO:root:True
+INFO:root:Digit found! 1, at (82,21)
+INFO:root:142
+INFO:root:True
+INFO:root:Digit found! 8, at (82,27)
+INFO:root:860
+INFO:root:True
+INFO:root:Digit found! 9, at (82,35)
+INFO:root:933
+INFO:root:True
+INFO:root:Digit found! 6, at (82,40)
+INFO:root:653
+INFO:root:True
+INFO:root:Digit found! 2, at (82,45)
+INFO:root:291
+INFO:root:True
+INFO:root:Digit found! 5, at (82,54)
+INFO:root:52
+INFO:root:True
+INFO:root:Digit found! 3, at (82,75)
+INFO:root:300
+INFO:root:True
+INFO:root:Digit found! 8, at (82,83)
+INFO:root:811
+INFO:root:True
+INFO:root:Digit found! 8, at (83,49)
+INFO:root:861
+INFO:root:True
+INFO:root:Digit found! 1, at (83,61)
+INFO:root:149
+INFO:root:True
+INFO:root:Digit found! 6, at (83,79)
+INFO:root:673
+INFO:root:True
+INFO:root:Digit found! 7, at (83,88)
+INFO:root:762
+INFO:root:True
+INFO:root:Digit found! 2, at (83,101)
+INFO:root:284
+INFO:root:True
+INFO:root:Digit found! 5, at (83,106)
+INFO:root:588
+INFO:root:True
+INFO:root:Digit found! 3, at (83,133)
+INFO:root:316
+INFO:root:True
+INFO:root:Digit found! 3, at (84,2)
+INFO:root:373
+INFO:root:True
+INFO:root:Digit found! 2, at (84,11)
+INFO:root:290
+INFO:root:True
+INFO:root:Digit found! 6, at (84,44)
+INFO:root:665
+INFO:root:True
+INFO:root:Digit found! 5, at (84,84)
+INFO:root:552
+INFO:root:True
+INFO:root:Digit found! 5, at (84,92)
+INFO:root:51
+INFO:root:True
+INFO:root:Digit found! 1, at (84,115)
+INFO:root:105
+INFO:root:True
+INFO:root:Digit found! 1, at (84,125)
+INFO:root:162
+INFO:root:True
+INFO:root:Digit found! 3, at (85,18)
+INFO:root:388
+INFO:root:True
+INFO:root:Digit found! 7, at (85,33)
+INFO:root:772
+INFO:root:True
+INFO:root:Digit found! 5, at (85,60)
+INFO:root:57
+INFO:root:True
+INFO:root:Digit found! 1, at (85,66)
+INFO:root:163
+INFO:root:True
+INFO:root:Digit found! 9, at (85,71)
+INFO:root:932
+INFO:root:True
+INFO:root:Digit found! 4, at (85,76)
+INFO:root:41
+INFO:root:False
+INFO:root:Digit found! 6, at (85,97)
+INFO:root:693
+INFO:root:False
+INFO:root:Digit found! 1, at (85,101)
+INFO:root:116
+INFO:root:True
+INFO:root:Digit found! 4, at (85,132)
+INFO:root:434
+INFO:root:True
+INFO:root:Digit found! 4, at (86,7)
+INFO:root:489
+INFO:root:True
+INFO:root:Digit found! 2, at (86,13)
+INFO:root:248
+INFO:root:True
+INFO:root:Digit found! 3, at (86,27)
+INFO:root:395
+INFO:root:True
+INFO:root:Digit found! 6, at (86,55)
+INFO:root:676
+INFO:root:True
+INFO:root:Digit found! 8, at (86,91)
+INFO:root:835
+INFO:root:True
+INFO:root:Digit found! 5, at (86,105)
+INFO:root:570
+INFO:root:True
+INFO:root:Digit found! 1, at (86,109)
+INFO:root:199
+INFO:root:True
+INFO:root:Digit found! 6, at (86,114)
+INFO:root:678
+INFO:root:True
+INFO:root:Digit found! 7, at (87,0)
+INFO:root:780
+INFO:root:False
+INFO:root:Digit found! 7, at (87,18)
+INFO:root:713
+INFO:root:True
+INFO:root:Digit found! 9, at (87,37)
+INFO:root:952
+INFO:root:True
+INFO:root:Digit found! 4, at (87,43)
+INFO:root:479
+INFO:root:True
+INFO:root:Digit found! 3, at (87,49)
+INFO:root:379
+INFO:root:True
+INFO:root:Digit found! 8, at (87,70)
+INFO:root:83
+INFO:root:True
+INFO:root:Digit found! 5, at (87,73)
+INFO:root:554
+INFO:root:False
+INFO:root:Digit found! 9, at (87,85)
+INFO:root:919
+INFO:root:True
+INFO:root:Digit found! 4, at (87,95)
+INFO:root:486
+INFO:root:True
+INFO:root:Digit found! 9, at (87,100)
+INFO:root:980
+INFO:root:False
+INFO:root:Digit found! 9, at (87,118)
+INFO:root:984
+INFO:root:False
+INFO:root:Digit found! 4, at (87,123)
+INFO:root:468
+INFO:root:True
+INFO:root:Digit found! 7, at (87,131)
+INFO:root:720
+INFO:root:True
+INFO:root:Digit found! 6, at (88,10)
+INFO:root:66
+INFO:root:True
+INFO:root:Digit found! 3, at (88,77)
+INFO:root:380
+INFO:root:True
+INFO:root:Digit found! 8, at (88,107)
+INFO:root:899
+INFO:root:True
+INFO:root:Digit found! 1, at (88,113)
+INFO:root:118
+INFO:root:True
+INFO:root:Digit found! 6, at (89,15)
+INFO:root:694
+INFO:root:True
+INFO:root:Digit found! 3, at (89,26)
+INFO:root:382
+INFO:root:True
+INFO:root:Digit found! 7, at (89,33)
+INFO:root:793
+INFO:root:True
+INFO:root:Digit found! 6, at (89,45)
+INFO:root:668
+INFO:root:True
+INFO:root:Digit found! 9, at (89,49)
+INFO:root:92
+INFO:root:True
+INFO:root:Digit found! 7, at (89,56)
+INFO:root:747
+INFO:root:True
+INFO:root:Digit found! 4, at (89,66)
+INFO:root:49
+INFO:root:True
+INFO:root:Digit found! 2, at (89,90)
+INFO:root:284
+INFO:root:True
+INFO:root:Digit found! 4, at (89,96)
+INFO:root:462
+INFO:root:True
+INFO:root:Digit found! 3, at (89,103)
+INFO:root:303
+INFO:root:True
+INFO:root:Digit found! 5, at (89,119)
+INFO:root:518
+INFO:root:False
+INFO:root:Digit found! 5, at (89,128)
+INFO:root:50
+INFO:root:True
+INFO:root:Digit found! 7, at (89,135)
+INFO:root:798
+INFO:root:True
+INFO:root:Digit found! 1, at (90,4)
+INFO:root:146
+INFO:root:True
+INFO:root:Digit found! 6, at (90,9)
+INFO:root:642
+INFO:root:True
+INFO:root:Digit found! 8, at (90,20)
+INFO:root:880
+INFO:root:True
+INFO:root:Digit found! 7, at (90,39)
+INFO:root:79
+INFO:root:True
+INFO:root:Digit found! 9, at (90,61)
+INFO:root:93
+INFO:root:True
+INFO:root:Digit found! 8, at (90,71)
+INFO:root:885
+INFO:root:True
+INFO:root:Digit found! 7, at (90,77)
+INFO:root:785
+INFO:root:False
+INFO:root:Digit found! 7, at (90,82)
+INFO:root:780
+INFO:root:True
+INFO:root:Digit found! 6, at (90,113)
+INFO:root:663
+INFO:root:True
+INFO:root:Digit found! 5, at (91,0)
+INFO:root:533
+INFO:root:True
+INFO:root:Digit found! 9, at (91,14)
+INFO:root:996
+INFO:root:False
+INFO:root:Digit found! 3, at (91,26)
+INFO:root:352
+INFO:root:True
+INFO:root:Digit found! 6, at (91,47)
+INFO:root:619
+INFO:root:True
+INFO:root:Digit found! 2, at (91,54)
+INFO:root:200
+INFO:root:True
+INFO:root:Digit found! 1, at (91,86)
+INFO:root:142
+INFO:root:True
+INFO:root:Digit found! 4, at (91,93)
+INFO:root:408
+INFO:root:True
+INFO:root:Digit found! 6, at (91,105)
+INFO:root:634
+INFO:root:True
+INFO:root:Digit found! 3, at (91,120)
+INFO:root:379
+INFO:root:True
+INFO:root:Digit found! 4, at (91,124)
+INFO:root:491
+INFO:root:True
+INFO:root:Digit found! 5, at (91,128)
+INFO:root:588
+INFO:root:True
+INFO:root:Digit found! 1, at (91,134)
+INFO:root:183
+INFO:root:True
+INFO:root:Digit found! 1, at (92,9)
+INFO:root:127
+INFO:root:True
+INFO:root:Digit found! 9, at (92,20)
+INFO:root:970
+INFO:root:True
+INFO:root:Digit found! 9, at (92,38)
+INFO:root:902
+INFO:root:True
+INFO:root:Digit found! 9, at (92,67)
+INFO:root:943
+INFO:root:True
+INFO:root:Digit found! 6, at (92,71)
+INFO:root:649
+INFO:root:True
+INFO:root:Digit found! 9, at (92,97)
+INFO:root:909
+INFO:root:True
+INFO:root:Digit found! 6, at (92,109)
+INFO:root:619
+INFO:root:True
+INFO:root:Digit found! 6, at (93,24)
+INFO:root:640
+INFO:root:True
+INFO:root:Digit found! 4, at (93,48)
+INFO:root:459
+INFO:root:True
+INFO:root:Digit found! 4, at (93,59)
+INFO:root:446
+INFO:root:True
+INFO:root:Digit found! 9, at (93,76)
+INFO:root:934
+INFO:root:True
+INFO:root:Digit found! 3, at (93,89)
+INFO:root:313
+INFO:root:True
+INFO:root:Digit found! 5, at (93,118)
+INFO:root:509
+INFO:root:True
+INFO:root:Digit found! 4, at (93,124)
+INFO:root:473
+INFO:root:True
+INFO:root:Digit found! 9, at (93,129)
+INFO:root:901
+INFO:root:True
+INFO:root:Digit found! 1, at (93,136)
+INFO:root:132
+INFO:root:False
+INFO:root:Digit found! 4, at (94,13)
+INFO:root:415
+INFO:root:True
+INFO:root:Digit found! 8, at (94,18)
+INFO:root:805
+INFO:root:True
+INFO:root:Digit found! 7, at (94,29)
+INFO:root:786
+INFO:root:True
+INFO:root:Digit found! 1, at (94,37)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 8, at (94,54)
+INFO:root:863
+INFO:root:True
+INFO:root:Digit found! 6, at (94,72)
+INFO:root:674
+INFO:root:True
+INFO:root:Digit found! 2, at (94,83)
+INFO:root:296
+INFO:root:True
+INFO:root:Digit found! 4, at (94,95)
+INFO:root:474
+INFO:root:True
+INFO:root:Digit found! 2, at (94,104)
+INFO:root:281
+INFO:root:True
+INFO:root:Digit found! 3, at (94,110)
+INFO:root:326
+INFO:root:True
+INFO:root:Digit found! 9, at (95,8)
+INFO:root:909
+INFO:root:True
+INFO:root:Digit found! 1, at (95,22)
+INFO:root:136
+INFO:root:True
+INFO:root:Digit found! 6, at (95,42)
+INFO:root:645
+INFO:root:True
+INFO:root:Digit found! 9, at (95,61)
+INFO:root:961
+INFO:root:True
+INFO:root:Digit found! 2, at (95,100)
+INFO:root:250
+INFO:root:True
+INFO:root:Digit found! 5, at (95,136)
+INFO:root:554
+INFO:root:True
+INFO:root:Digit found! 5, at (96,13)
+INFO:root:589
+INFO:root:True
+INFO:root:Digit found! 2, at (96,36)
+INFO:root:253
+INFO:root:True
+INFO:root:Digit found! 1, at (96,47)
+INFO:root:166
+INFO:root:True
+INFO:root:Digit found! 4, at (96,56)
+INFO:root:429
+INFO:root:True
+INFO:root:Digit found! 9, at (96,68)
+INFO:root:96
+INFO:root:True
+INFO:root:Digit found! 5, at (96,76)
+INFO:root:568
+INFO:root:True
+INFO:root:Digit found! 6, at (96,80)
+INFO:root:684
+INFO:root:True
+INFO:root:Digit found! 1, at (96,85)
+INFO:root:186
+INFO:root:True
+INFO:root:Digit found! 9, at (96,104)
+INFO:root:958
+INFO:root:True
+INFO:root:Digit found! 6, at (96,115)
+INFO:root:678
+INFO:root:True
+INFO:root:Digit found! 4, at (96,132)
+INFO:root:466
+INFO:root:True
+INFO:root:Digit found! 7, at (97,1)
+INFO:root:759
+INFO:root:True
+INFO:root:Digit found! 9, at (97,17)
+INFO:root:96
+INFO:root:True
+INFO:root:Digit found! 6, at (97,29)
+INFO:root:658
+INFO:root:True
+INFO:root:Digit found! 1, at (97,62)
+INFO:root:105
+INFO:root:True
+INFO:root:Digit found! 4, at (97,89)
+INFO:root:428
+INFO:root:True
+INFO:root:Digit found! 7, at (97,125)
+INFO:root:73
+INFO:root:True
+INFO:root:Digit found! 5, at (98,6)
+INFO:root:54
+INFO:root:True
+INFO:root:Digit found! 1, at (98,35)
+INFO:root:168
+INFO:root:True
+INFO:root:Digit found! 5, at (98,39)
+INFO:root:592
+INFO:root:True
+INFO:root:Digit found! 5, at (98,44)
+INFO:root:536
+INFO:root:True
+INFO:root:Digit found! 8, at (98,66)
+INFO:root:8
+INFO:root:True
+INFO:root:Digit found! 7, at (98,71)
+INFO:root:71
+INFO:root:True
+INFO:root:Digit found! 7, at (98,81)
+INFO:root:753
+INFO:root:True
+INFO:root:Digit found! 7, at (98,110)
+INFO:root:74
+INFO:root:True
+INFO:root:Digit found! 5, at (98,120)
+INFO:root:564
+INFO:root:True
+INFO:root:Digit found! 3, at (99,1)
+INFO:root:304
+INFO:root:False
+INFO:root:Digit found! 7, at (99,9)
+INFO:root:728
+INFO:root:True
+INFO:root:Digit found! 7, at (99,14)
+INFO:root:764
+INFO:root:True
+INFO:root:Digit found! 8, at (99,49)
+INFO:root:804
+INFO:root:True
+INFO:root:Digit found! 5, at (99,53)
+INFO:root:575
+INFO:root:True
+INFO:root:Digit found! 2, at (99,60)
+INFO:root:266
+INFO:root:True
+INFO:root:Digit found! 9, at (99,93)
+INFO:root:94
+INFO:root:True
+INFO:root:Digit found! 2, at (99,101)
+INFO:root:27
+INFO:root:True
+INFO:root:Digit found! 3, at (99,104)
+INFO:root:316
+INFO:root:False
+INFO:root:Digit found! 6, at (99,114)
+INFO:root:644
+INFO:root:True
+INFO:root:Digit found! 2, at (99,126)
+INFO:root:209
+INFO:root:True
+INFO:root:Digit found! 4, at (99,132)
+INFO:root:485
+INFO:root:True
+INFO:root:Digit found! 9, at (100,5)
+INFO:root:997
+INFO:root:False
+INFO:root:Digit found! 7, at (100,30)
+INFO:root:792
+INFO:root:True
+INFO:root:Digit found! 8, at (100,36)
+INFO:root:855
+INFO:root:True
+INFO:root:Digit found! 1, at (100,64)
+INFO:root:169
+INFO:root:True
+INFO:root:Digit found! 4, at (100,70)
+INFO:root:496
+INFO:root:True
+INFO:root:Digit found! 6, at (100,75)
+INFO:root:615
+INFO:root:True
+INFO:root:Digit found! 6, at (100,86)
+INFO:root:683
+INFO:root:True
+INFO:root:Digit found! 2, at (100,96)
+INFO:root:225
+INFO:root:True
+INFO:root:Digit found! 4, at (100,119)
+INFO:root:474
+INFO:root:True
+INFO:root:Digit found! 3, at (100,136)
+INFO:root:395
+INFO:root:True
+INFO:root:Digit found! 5, at (101,12)
+INFO:root:573
+INFO:root:True
+INFO:root:Digit found! 2, at (101,19)
+INFO:root:206
+INFO:root:True
+INFO:root:Digit found! 4, at (101,23)
+INFO:root:477
+INFO:root:True
+INFO:root:Digit found! 1, at (101,46)
+INFO:root:158
+INFO:root:True
+INFO:root:Digit found! 7, at (101,59)
+INFO:root:702
+INFO:root:True
+INFO:root:Digit found! 2, at (101,82)
+INFO:root:298
+INFO:root:True
+INFO:root:Digit found! 1, at (101,101)
+INFO:root:100
+INFO:root:True
+INFO:root:Digit found! 7, at (101,124)
+INFO:root:714
+INFO:root:True
+INFO:root:Digit found! 4, at (102,0)
+INFO:root:448
+INFO:root:False
+INFO:root:Digit found! 7, at (102,37)
+INFO:root:769
+INFO:root:True
+INFO:root:Digit found! 2, at (102,43)
+INFO:root:27
+INFO:root:True
+INFO:root:Digit found! 6, at (102,53)
+INFO:root:691
+INFO:root:True
+INFO:root:Digit found! 1, at (102,66)
+INFO:root:178
+INFO:root:False
+INFO:root:Digit found! 6, at (102,73)
+INFO:root:675
+INFO:root:False
+INFO:root:Digit found! 9, at (102,91)
+INFO:root:980
+INFO:root:True
+INFO:root:Digit found! 2, at (102,95)
+INFO:root:28
+INFO:root:True
+INFO:root:Digit found! 7, at (102,113)
+INFO:root:727
+INFO:root:True
+INFO:root:Digit found! 2, at (102,129)
+INFO:root:201
+INFO:root:True
+INFO:root:Digit found! 5, at (102,133)
+INFO:root:545
+INFO:root:True
+INFO:root:Digit found! 2, at (103,12)
+INFO:root:223
+INFO:root:True
+INFO:root:Digit found! 5, at (103,18)
+INFO:root:561
+INFO:root:True
+INFO:root:Digit found! 2, at (103,31)
+INFO:root:261
+INFO:root:True
+INFO:root:Digit found! 6, at (103,82)
+INFO:root:610
+INFO:root:True
+INFO:root:Digit found! 2, at (103,86)
+INFO:root:250
+INFO:root:False
+INFO:root:Digit found! 4, at (103,109)
+INFO:root:496
+INFO:root:True
+INFO:root:Digit found! 4, at (103,118)
+INFO:root:408
+INFO:root:True
+INFO:root:Digit found! 7, at (104,5)
+INFO:root:775
+INFO:root:True
+INFO:root:Digit found! 1, at (104,37)
+INFO:root:195
+INFO:root:True
+INFO:root:Digit found! 3, at (104,50)
+INFO:root:303
+INFO:root:True
+INFO:root:Digit found! 1, at (104,69)
+INFO:root:141
+INFO:root:True
+INFO:root:Digit found! 8, at (104,74)
+INFO:root:865
+INFO:root:True
+INFO:root:Digit found! 6, at (104,91)
+INFO:root:629
+INFO:root:True
+INFO:root:Digit found! 6, at (104,101)
+INFO:root:659
+INFO:root:False
+INFO:root:Digit found! 8, at (104,123)
+INFO:root:855
+INFO:root:True
+INFO:root:Digit found! 9, at (104,131)
+INFO:root:958
+INFO:root:True
+INFO:root:Digit found! 4, at (105,11)
+INFO:root:407
+INFO:root:True
+INFO:root:Digit found! 9, at (105,22)
+INFO:root:92
+INFO:root:True
+INFO:root:Digit found! 2, at (105,27)
+INFO:root:22
+INFO:root:True
+INFO:root:Digit found! 4, at (105,45)
+INFO:root:493
+INFO:root:True
+INFO:root:Digit found! 6, at (105,54)
+INFO:root:605
+INFO:root:True
+INFO:root:Digit found! 4, at (105,86)
+INFO:root:477
+INFO:root:True
+INFO:root:Digit found! 1, at (105,97)
+INFO:root:160
+INFO:root:True
+INFO:root:Digit found! 7, at (105,119)
+INFO:root:743
+INFO:root:True
+INFO:root:Digit found! 1, at (105,127)
+INFO:root:163
+INFO:root:True
+INFO:root:Digit found! 6, at (106,38)
+INFO:root:602
+INFO:root:True
+INFO:root:Digit found! 6, at (106,64)
+INFO:root:668
+INFO:root:True
+INFO:root:Digit found! 2, at (106,70)
+INFO:root:245
+INFO:root:True
+INFO:root:Digit found! 7, at (106,93)
+INFO:root:731
+INFO:root:True
+INFO:root:Digit found! 6, at (106,106)
+INFO:root:69
+INFO:root:True
+INFO:root:Digit found! 2, at (106,113)
+INFO:root:213
+INFO:root:True
+INFO:root:Digit found! 2, at (107,16)
+INFO:root:213
+INFO:root:True
+INFO:root:Digit found! 9, at (107,28)
+INFO:root:903
+INFO:root:True
+INFO:root:Digit found! 7, at (107,32)
+INFO:root:75
+INFO:root:True
+INFO:root:Digit found! 6, at (107,44)
+INFO:root:64
+INFO:root:True
+INFO:root:Digit found! 9, at (107,52)
+INFO:root:945
+INFO:root:True
+INFO:root:Digit found! 2, at (107,58)
+INFO:root:221
+INFO:root:True
+INFO:root:Digit found! 7, at (107,78)
+INFO:root:740
+INFO:root:False
+INFO:root:Digit found! 7, at (107,89)
+INFO:root:739
+INFO:root:True
+INFO:root:Digit found! 3, at (107,102)
+INFO:root:393
+INFO:root:True
+INFO:root:Digit found! 3, at (107,109)
+INFO:root:301
+INFO:root:True
+INFO:root:Digit found! 5, at (107,119)
+INFO:root:562
+INFO:root:True
+INFO:root:Digit found! 5, at (107,131)
+INFO:root:53
+INFO:root:True
+INFO:root:Digit found! 4, at (107,136)
+INFO:root:4
+INFO:root:True
+INFO:root:Digit found! 6, at (108,4)
+INFO:root:64
+INFO:root:True
+INFO:root:Digit found! 1, at (108,12)
+INFO:root:145
+INFO:root:True
+INFO:root:Digit found! 5, at (108,20)
+INFO:root:580
+INFO:root:True
+INFO:root:Digit found! 4, at (108,63)
+INFO:root:425
+INFO:root:True
+INFO:root:Digit found! 9, at (108,74)
+INFO:root:900
+INFO:root:False
+INFO:root:Digit found! 8, at (108,83)
+INFO:root:828
+INFO:root:True
+INFO:root:Digit found! 5, at (108,124)
+INFO:root:536
+INFO:root:True
+INFO:root:Digit found! 9, at (109,37)
+INFO:root:91
+INFO:root:False
+INFO:root:Digit found! 1, at (109,43)
+INFO:root:185
+INFO:root:True
+INFO:root:Digit found! 8, at (109,87)
+INFO:root:85
+INFO:root:True
+INFO:root:Digit found! 4, at (109,106)
+INFO:root:414
+INFO:root:True
+INFO:root:Digit found! 8, at (109,112)
+INFO:root:890
+INFO:root:True
+INFO:root:Digit found! 2, at (109,116)
+INFO:root:204
+INFO:root:True
+INFO:root:Digit found! 7, at (110,4)
+INFO:root:772
+INFO:root:True
+INFO:root:Digit found! 4, at (110,19)
+INFO:root:422
+INFO:root:True
+INFO:root:Digit found! 3, at (110,26)
+INFO:root:351
+INFO:root:True
+INFO:root:Digit found! 2, at (110,32)
+INFO:root:218
+INFO:root:True
+INFO:root:Digit found! 5, at (110,53)
+INFO:root:584
+INFO:root:True
+INFO:root:Digit found! 2, at (110,72)
+INFO:root:263
+INFO:root:True
+INFO:root:Digit found! 8, at (110,78)
+INFO:root:849
+INFO:root:True
+INFO:root:Digit found! 6, at (110,100)
+INFO:root:639
+INFO:root:True
+INFO:root:Digit found! 3, at (111,8)
+INFO:root:307
+INFO:root:True
+INFO:root:Digit found! 8, at (111,14)
+INFO:root:897
+INFO:root:True
+INFO:root:Digit found! 2, at (111,23)
+INFO:root:28
+INFO:root:True
+INFO:root:Digit found! 4, at (111,38)
+INFO:root:49
+INFO:root:True
+INFO:root:Digit found! 3, at (111,47)
+INFO:root:300
+INFO:root:False
+INFO:root:Digit found! 7, at (111,58)
+INFO:root:72
+INFO:root:True
+INFO:root:Digit found! 5, at (111,84)
+INFO:root:544
+INFO:root:True
+INFO:root:Digit found! 9, at (111,93)
+INFO:root:974
+INFO:root:True
+INFO:root:Digit found! 2, at (111,104)
+INFO:root:214
+INFO:root:True
+INFO:root:Digit found! 5, at (111,110)
+INFO:root:55
+INFO:root:True
+INFO:root:Digit found! 3, at (111,119)
+INFO:root:347
+INFO:root:True
+INFO:root:Digit found! 9, at (111,135)
+INFO:root:914
+INFO:root:False
+INFO:root:Digit found! 9, at (112,0)
+INFO:root:901
+INFO:root:False
+INFO:root:Digit found! 6, at (112,18)
+INFO:root:67
+INFO:root:True
+INFO:root:Digit found! 8, at (112,26)
+INFO:root:840
+INFO:root:True
+INFO:root:Digit found! 3, at (112,32)
+INFO:root:343
+INFO:root:True
+INFO:root:Digit found! 4, at (112,76)
+INFO:root:447
+INFO:root:True
+INFO:root:Digit found! 4, at (112,99)
+INFO:root:400
+INFO:root:True
+INFO:root:Digit found! 6, at (113,7)
+INFO:root:684
+INFO:root:True
+INFO:root:Digit found! 4, at (113,12)
+INFO:root:498
+INFO:root:True
+INFO:root:Digit found! 5, at (113,47)
+INFO:root:544
+INFO:root:True
+INFO:root:Digit found! 3, at (113,53)
+INFO:root:347
+INFO:root:True
+INFO:root:Digit found! 4, at (113,67)
+INFO:root:493
+INFO:root:True
+INFO:root:Digit found! 6, at (113,83)
+INFO:root:612
+INFO:root:True
+INFO:root:Digit found! 5, at (113,96)
+INFO:root:59
+INFO:root:True
+INFO:root:Digit found! 7, at (113,107)
+INFO:root:741
+INFO:root:True
+INFO:root:Digit found! 5, at (113,120)
+INFO:root:593
+INFO:root:True
+INFO:root:Digit found! 4, at (113,132)
+INFO:root:416
+INFO:root:True
+INFO:root:Digit found! 3, at (114,19)
+INFO:root:369
+INFO:root:True
+INFO:root:Digit found! 5, at (114,23)
+INFO:root:577
+INFO:root:True
+INFO:root:Digit found! 6, at (114,34)
+INFO:root:690
+INFO:root:True
+INFO:root:Digit found! 7, at (114,40)
+INFO:root:770
+INFO:root:True
+INFO:root:Digit found! 9, at (114,57)
+INFO:root:983
+INFO:root:True
+INFO:root:Digit found! 1, at (114,62)
+INFO:root:160
+INFO:root:True
+INFO:root:Digit found! 6, at (114,87)
+INFO:root:623
+INFO:root:True
+INFO:root:Digit found! 2, at (114,91)
+INFO:root:248
+INFO:root:True
+INFO:root:Digit found! 4, at (114,102)
+INFO:root:437
+INFO:root:True
+INFO:root:Digit found! 2, at (114,116)
+INFO:root:258
+INFO:root:True
+INFO:root:Digit found! 2, at (114,136)
+INFO:root:275
+INFO:root:True
+INFO:root:Digit found! 6, at (115,8)
+INFO:root:603
+INFO:root:True
+INFO:root:Digit found! 9, at (115,44)
+INFO:root:913
+INFO:root:True
+INFO:root:Digit found! 6, at (115,51)
+INFO:root:609
+INFO:root:True
+INFO:root:Digit found! 8, at (115,71)
+INFO:root:823
+INFO:root:True
+INFO:root:Digit found! 6, at (115,98)
+INFO:root:62
+INFO:root:True
+INFO:root:Digit found! 8, at (115,106)
+INFO:root:83
+INFO:root:True
+INFO:root:Digit found! 5, at (116,4)
+INFO:root:538
+INFO:root:True
+INFO:root:Digit found! 3, at (116,12)
+INFO:root:356
+INFO:root:True
+INFO:root:Digit found! 1, at (116,20)
+INFO:root:117
+INFO:root:True
+INFO:root:Digit found! 5, at (116,39)
+INFO:root:556
+INFO:root:True
+INFO:root:Digit found! 9, at (116,89)
+INFO:root:920
+INFO:root:True
+INFO:root:Digit found! 7, at (116,115)
+INFO:root:746
+INFO:root:True
+INFO:root:Digit found! 4, at (117,16)
+INFO:root:483
+INFO:root:True
+INFO:root:Digit found! 1, at (117,26)
+INFO:root:197
+INFO:root:True
+INFO:root:Digit found! 2, at (117,69)
+INFO:root:231
+INFO:root:True
+INFO:root:Digit found! 2, at (117,75)
+INFO:root:210
+INFO:root:True
+INFO:root:Digit found! 9, at (117,84)
+INFO:root:92
+INFO:root:True
+INFO:root:Digit found! 9, at (117,96)
+INFO:root:982
+INFO:root:True
+INFO:root:Digit found! 1, at (117,108)
+INFO:root:199
+INFO:root:False
+INFO:root:Digit found! 8, at (117,124)
+INFO:root:848
+INFO:root:True
+INFO:root:Digit found! 3, at (118,3)
+INFO:root:370
+INFO:root:True
+INFO:root:Digit found! 4, at (118,8)
+INFO:root:413
+INFO:root:True
+INFO:root:Digit found! 5, at (118,47)
+INFO:root:556
+INFO:root:True
+INFO:root:Digit found! 3, at (118,58)
+INFO:root:325
+INFO:root:True
+INFO:root:Digit found! 9, at (118,64)
+INFO:root:902
+INFO:root:True
+INFO:root:Digit found! 1, at (118,87)
+INFO:root:182
+INFO:root:True
+INFO:root:Digit found! 9, at (118,100)
+INFO:root:933
+INFO:root:True
+INFO:root:Digit found! 8, at (118,129)
+INFO:root:829
+INFO:root:True
+INFO:root:Digit found! 4, at (118,133)
+INFO:root:402
+INFO:root:True
+INFO:root:Digit found! 5, at (119,21)
+INFO:root:524
+INFO:root:True
+INFO:root:Digit found! 1, at (119,25)
+INFO:root:131
+INFO:root:False
+INFO:root:Digit found! 1, at (119,30)
+INFO:root:134
+INFO:root:True
+INFO:root:Digit found! 1, at (119,35)
+INFO:root:163
+INFO:root:True
+INFO:root:Digit found! 1, at (119,43)
+INFO:root:185
+INFO:root:True
+INFO:root:Digit found! 7, at (119,93)
+INFO:root:756
+INFO:root:False
+INFO:root:Digit found! 2, at (119,104)
+INFO:root:282
+INFO:root:True
+INFO:root:Digit found! 7, at (119,109)
+INFO:root:774
+INFO:root:True
+INFO:root:Digit found! 8, at (119,118)
+INFO:root:822
+INFO:root:True
+INFO:root:Digit found! 3, at (120,4)
+INFO:root:340
+INFO:root:True
+INFO:root:Digit found! 3, at (120,11)
+INFO:root:373
+INFO:root:True
+INFO:root:Digit found! 6, at (120,50)
+INFO:root:649
+INFO:root:True
+INFO:root:Digit found! 2, at (120,54)
+INFO:root:20
+INFO:root:False
+INFO:root:Digit found! 2, at (120,60)
+INFO:root:289
+INFO:root:True
+INFO:root:Digit found! 7, at (120,67)
+INFO:root:799
+INFO:root:False
+INFO:root:Digit found! 5, at (120,72)
+INFO:root:549
+INFO:root:True
+INFO:root:Digit found! 9, at (120,76)
+INFO:root:939
+INFO:root:True
+INFO:root:Digit found! 1, at (120,84)
+INFO:root:120
+INFO:root:False
+INFO:root:Digit found! 6, at (120,97)
+INFO:root:61
+INFO:root:True
+INFO:root:Digit found! 3, at (120,114)
+INFO:root:345
+INFO:root:True
+INFO:root:Digit found! 7, at (120,124)
+INFO:root:778
+INFO:root:True
+INFO:root:Digit found! 5, at (120,130)
+INFO:root:550
+INFO:root:True
+INFO:root:Digit found! 2, at (120,134)
+INFO:root:267
+INFO:root:False
+INFO:root:Digit found! 6, at (121,16)
+INFO:root:699
+INFO:root:True
+INFO:root:Digit found! 3, at (121,26)
+INFO:root:319
+INFO:root:True
+INFO:root:Digit found! 1, at (121,31)
+INFO:root:170
+INFO:root:True
+INFO:root:Digit found! 4, at (121,37)
+INFO:root:492
+INFO:root:False
+INFO:root:Digit found! 6, at (121,44)
+INFO:root:61
+INFO:root:True
+INFO:root:Digit found! 3, at (121,109)
+INFO:root:345
+INFO:root:True
+INFO:root:Digit found! 5, at (122,0)
+INFO:root:534
+INFO:root:True
+INFO:root:Digit found! 1, at (122,48)
+INFO:root:144
+INFO:root:True
+INFO:root:Digit found! 8, at (122,53)
+INFO:root:849
+INFO:root:True
+INFO:root:Digit found! 1, at (122,63)
+INFO:root:174
+INFO:root:True
+INFO:root:Digit found! 2, at (122,81)
+INFO:root:219
+INFO:root:True
+INFO:root:Digit found! 1, at (122,96)
+INFO:root:140
+INFO:root:True
+INFO:root:Digit found! 4, at (122,102)
+INFO:root:476
+INFO:root:False
+INFO:root:Digit found! 9, at (122,123)
+INFO:root:970
+INFO:root:True
+INFO:root:Digit found! 6, at (123,8)
+INFO:root:681
+INFO:root:True
+INFO:root:Digit found! 4, at (123,23)
+INFO:root:444
+INFO:root:True
+INFO:root:Digit found! 8, at (123,31)
+INFO:root:819
+INFO:root:True
+INFO:root:Digit found! 3, at (123,58)
+INFO:root:305
+INFO:root:True
+INFO:root:Digit found! 4, at (123,69)
+INFO:root:413
+INFO:root:True
+INFO:root:Digit found! 9, at (123,73)
+INFO:root:95
+INFO:root:True
+INFO:root:Digit found! 5, at (123,90)
+INFO:root:589
+INFO:root:True
+INFO:root:Digit found! 2, at (123,110)
+INFO:root:229
+INFO:root:False
+INFO:root:Digit found! 2, at (123,116)
+INFO:root:235
+INFO:root:True
+INFO:root:Digit found! 6, at (123,135)
+INFO:root:644
+INFO:root:False
+INFO:root:Digit found! 2, at (124,17)
+INFO:root:28
+INFO:root:False
+INFO:root:Digit found! 4, at (124,27)
+INFO:root:403
+INFO:root:True
+INFO:root:Digit found! 5, at (124,51)
+INFO:root:548
+INFO:root:True
+INFO:root:Digit found! 1, at (124,79)
+INFO:root:17
+INFO:root:True
+INFO:root:Digit found! 3, at (124,107)
+INFO:root:33
+INFO:root:True
+INFO:root:Digit found! 9, at (124,128)
+INFO:root:962
+INFO:root:True
+INFO:root:Digit found! 3, at (125,0)
+INFO:root:373
+INFO:root:False
+INFO:root:Digit found! 5, at (125,13)
+INFO:root:500
+INFO:root:True
+INFO:root:Digit found! 4, at (125,21)
+INFO:root:429
+INFO:root:True
+INFO:root:Digit found! 2, at (125,45)
+INFO:root:291
+INFO:root:True
+INFO:root:Digit found! 8, at (125,61)
+INFO:root:881
+INFO:root:True
+INFO:root:Digit found! 2, at (125,65)
+INFO:root:296
+INFO:root:True
+INFO:root:Digit found! 1, at (125,73)
+INFO:root:163
+INFO:root:True
+INFO:root:Digit found! 7, at (125,96)
+INFO:root:796
+INFO:root:True
+INFO:root:Digit found! 5, at (125,102)
+INFO:root:585
+INFO:root:False
+INFO:root:Digit found! 8, at (125,123)
+INFO:root:802
+INFO:root:True
+INFO:root:Digit found! 1, at (125,136)
+INFO:root:138
+INFO:root:True
+INFO:root:Digit found! 9, at (126,35)
+INFO:root:983
+INFO:root:True
+INFO:root:Digit found! 8, at (126,55)
+INFO:root:809
+INFO:root:True
+INFO:root:Digit found! 4, at (126,77)
+INFO:root:417
+INFO:root:True
+INFO:root:Digit found! 9, at (126,81)
+INFO:root:999
+INFO:root:True
+INFO:root:Digit found! 6, at (126,112)
+INFO:root:633
+INFO:root:False
+INFO:root:Digit found! 3, at (126,128)
+INFO:root:322
+INFO:root:True
+INFO:root:Digit found! 9, at (127,6)
+INFO:root:907
+INFO:root:True
+INFO:root:Digit found! 9, at (127,12)
+INFO:root:921
+INFO:root:True
+INFO:root:Digit found! 6, at (127,28)
+INFO:root:665
+INFO:root:True
+INFO:root:Digit found! 7, at (127,42)
+INFO:root:731
+INFO:root:True
+INFO:root:Digit found! 9, at (127,60)
+INFO:root:903
+INFO:root:True
+INFO:root:Digit found! 6, at (127,88)
+INFO:root:638
+INFO:root:True
+INFO:root:Digit found! 6, at (127,93)
+INFO:root:662
+INFO:root:True
+INFO:root:Digit found! 4, at (127,121)
+INFO:root:495
+INFO:root:True
+INFO:root:Digit found! 1, at (127,133)
+INFO:root:130
+INFO:root:True
+INFO:root:Digit found! 9, at (127,137)
+INFO:root:9
+INFO:root:False
+INFO:root:Digit found! 6, at (128,17)
+INFO:root:68
+INFO:root:False
+INFO:root:Digit found! 3, at (128,34)
+INFO:root:353
+INFO:root:True
+INFO:root:Digit found! 6, at (128,53)
+INFO:root:639
+INFO:root:True
+INFO:root:Digit found! 3, at (128,77)
+INFO:root:349
+INFO:root:True
+INFO:root:Digit found! 6, at (128,102)
+INFO:root:660
+INFO:root:True
+INFO:root:Digit found! 9, at (128,109)
+INFO:root:914
+INFO:root:True
+INFO:root:Digit found! 5, at (128,115)
+INFO:root:570
+INFO:root:True
+INFO:root:Digit found! 6, at (129,10)
+INFO:root:695
+INFO:root:True
+INFO:root:Digit found! 6, at (129,20)
+INFO:root:679
+INFO:root:True
+INFO:root:Digit found! 9, at (129,49)
+INFO:root:958
+INFO:root:True
+INFO:root:Digit found! 4, at (129,59)
+INFO:root:494
+INFO:root:False
+INFO:root:Digit found! 3, at (129,64)
+INFO:root:369
+INFO:root:True
+INFO:root:Digit found! 4, at (129,106)
+INFO:root:44
+INFO:root:True
+INFO:root:Digit found! 9, at (129,126)
+INFO:root:964
+INFO:root:True
+INFO:root:Digit found! 5, at (129,135)
+INFO:root:548
+INFO:root:True
+INFO:root:Digit found! 8, at (130,3)
+INFO:root:826
+INFO:root:True
+INFO:root:Digit found! 2, at (130,15)
+INFO:root:268
+INFO:root:True
+INFO:root:Digit found! 6, at (130,26)
+INFO:root:675
+INFO:root:False
+INFO:root:Digit found! 1, at (130,43)
+INFO:root:136
+INFO:root:True
+INFO:root:Digit found! 6, at (130,70)
+INFO:root:650
+INFO:root:False
+INFO:root:Digit found! 9, at (130,74)
+INFO:root:964
+INFO:root:True
+INFO:root:Digit found! 7, at (130,81)
+INFO:root:728
+INFO:root:False
+INFO:root:Digit found! 8, at (130,85)
+INFO:root:823
+INFO:root:True
+INFO:root:Digit found! 4, at (130,89)
+INFO:root:403
+INFO:root:True
+INFO:root:Digit found! 8, at (130,110)
+INFO:root:842
+INFO:root:True
+INFO:root:Digit found! 9, at (130,114)
+INFO:root:983
+INFO:root:True
+INFO:root:Digit found! 3, at (131,19)
+INFO:root:328
+INFO:root:True
+INFO:root:Digit found! 5, at (131,54)
+INFO:root:519
+INFO:root:True
+INFO:root:Digit found! 2, at (131,62)
+INFO:root:210
+INFO:root:True
+INFO:root:Digit found! 1, at (131,93)
+INFO:root:143
+INFO:root:True
+INFO:root:Digit found! 4, at (131,102)
+INFO:root:46
+INFO:root:True
+INFO:root:Digit found! 2, at (131,128)
+INFO:root:241
+INFO:root:True
+INFO:root:Digit found! 5, at (131,133)
+INFO:root:55
+INFO:root:True
+INFO:root:Digit found! 8, at (132,7)
+INFO:root:855
+INFO:root:True
+INFO:root:Digit found! 1, at (132,14)
+INFO:root:199
+INFO:root:True
+INFO:root:Digit found! 5, at (132,24)
+INFO:root:526
+INFO:root:False
+INFO:root:Digit found! 8, at (132,32)
+INFO:root:849
+INFO:root:True
+INFO:root:Digit found! 7, at (132,38)
+INFO:root:764
+INFO:root:True
+INFO:root:Digit found! 2, at (132,42)
+INFO:root:294
+INFO:root:True
+INFO:root:Digit found! 2, at (132,67)
+INFO:root:280
+INFO:root:True
+INFO:root:Digit found! 2, at (132,80)
+INFO:root:261
+INFO:root:True
+INFO:root:Digit found! 8, at (132,84)
+INFO:root:885
+INFO:root:True
+INFO:root:Digit found! 4, at (132,98)
+INFO:root:434
+INFO:root:True
+INFO:root:Digit found! 6, at (132,120)
+INFO:root:610
+INFO:root:True
+INFO:root:Digit found! 4, at (133,51)
+INFO:root:498
+INFO:root:True
+INFO:root:Digit found! 9, at (133,61)
+INFO:root:936
+INFO:root:True
+INFO:root:Digit found! 8, at (133,73)
+INFO:root:831
+INFO:root:True
+INFO:root:Digit found! 4, at (133,103)
+INFO:root:462
+INFO:root:True
+INFO:root:Digit found! 9, at (133,107)
+INFO:root:939
+INFO:root:True
+INFO:root:Digit found! 4, at (133,113)
+INFO:root:439
+INFO:root:False
+INFO:root:Digit found! 8, at (133,124)
+INFO:root:845
+INFO:root:True
+INFO:root:Digit found! 4, at (133,132)
+INFO:root:443
+INFO:root:True
+INFO:root:Digit found! 3, at (134,6)
+INFO:root:360
+INFO:root:True
+INFO:root:Digit found! 8, at (134,10)
+INFO:root:842
+INFO:root:True
+INFO:root:Digit found! 9, at (134,19)
+INFO:root:986
+INFO:root:True
+INFO:root:Digit found! 9, at (134,24)
+INFO:root:902
+INFO:root:True
+INFO:root:Digit found! 2, at (134,33)
+INFO:root:21
+INFO:root:True
+INFO:root:Digit found! 3, at (134,36)
+INFO:root:307
+INFO:root:True
+INFO:root:Digit found! 2, at (134,43)
+INFO:root:234
+INFO:root:True
+INFO:root:Digit found! 3, at (134,57)
+INFO:root:324
+INFO:root:True
+INFO:root:Digit found! 5, at (134,67)
+INFO:root:505
+INFO:root:True
+INFO:root:Digit found! 3, at (134,88)
+INFO:root:315
+INFO:root:True
+INFO:root:Digit found! 4, at (135,53)
+INFO:root:42
+INFO:root:True
+INFO:root:Digit found! 4, at (135,74)
+INFO:root:474
+INFO:root:True
+INFO:root:Digit found! 9, at (135,83)
+INFO:root:919
+INFO:root:True
+INFO:root:Digit found! 5, at (135,102)
+INFO:root:50
+INFO:root:False
+INFO:root:Digit found! 6, at (135,105)
+INFO:root:674
+INFO:root:True
+INFO:root:Digit found! 7, at (135,110)
+INFO:root:713
+INFO:root:True
+INFO:root:Digit found! 2, at (135,133)
+INFO:root:27
+INFO:root:True
+INFO:root:Digit found! 2, at (136,8)
+INFO:root:249
+INFO:root:True
+INFO:root:Digit found! 2, at (136,15)
+INFO:root:291
+INFO:root:True
+INFO:root:Digit found! 4, at (136,29)
+INFO:root:448
+INFO:root:True
+INFO:root:Digit found! 6, at (136,33)
+INFO:root:622
+INFO:root:True
+INFO:root:Digit found! 2, at (136,38)
+INFO:root:228
+INFO:root:True
+INFO:root:Digit found! 3, at (136,48)
+INFO:root:308
+INFO:root:True
+INFO:root:Digit found! 1, at (136,60)
+INFO:root:189
+INFO:root:True
+INFO:root:Digit found! 6, at (136,78)
+INFO:root:629
+INFO:root:False
+INFO:root:Digit found! 5, at (136,122)
+INFO:root:594
+INFO:root:True
+INFO:root:Digit found! 1, at (136,127)
+INFO:root:127
+INFO:root:True
+INFO:root:Digit found! 7, at (136,136)
+INFO:root:782
+INFO:root:False
+INFO:root:Digit found! 1, at (137,19)
+INFO:root:173
+INFO:root:True
+INFO:root:Digit found! 8, at (137,24)
+INFO:root:817
+INFO:root:True
+INFO:root:Digit found! 9, at (137,56)
+INFO:root:91
+INFO:root:True
+INFO:root:Digit found! 6, at (137,84)
+INFO:root:649
+INFO:root:True
+INFO:root:Digit found! 4, at (137,90)
+INFO:root:492
+INFO:root:True
+INFO:root:Digit found! 4, at (137,96)
+INFO:root:400
+INFO:root:False
+INFO:root:Digit found! 1, at (137,108)
+INFO:root:17
+INFO:root:True
+INFO:root:Digit found! 8, at (137,113)
+INFO:root:878
+INFO:root:True
+INFO:root:Digit found! 9, at (137,132)
+INFO:root:950
+INFO:root:False
+INFO:root:Digit found! 3, at (138,3)
+INFO:root:32
+INFO:root:False
+INFO:root:Digit found! 6, at (138,6)
+INFO:root:674
+INFO:root:False
+INFO:root:Digit found! 4, at (138,30)
+INFO:root:402
+INFO:root:True
+INFO:root:Digit found! 6, at (138,45)
+INFO:root:610
+INFO:root:True
+INFO:root:Digit found! 5, at (138,62)
+INFO:root:549
+INFO:root:True
+INFO:root:Digit found! 8, at (138,67)
+INFO:root:853
+INFO:root:True
+INFO:root:Digit found! 9, at (138,81)
+INFO:root:96
+INFO:root:True
+INFO:root:Digit found! 7, at (138,119)
+INFO:root:779
+INFO:root:True
+INFO:root:Digit found! 8, at (139,13)
+INFO:root:885
+INFO:root:True
+INFO:root:Digit found! 6, at (139,49)
+INFO:root:600
+INFO:root:True
+INFO:root:Digit found! 4, at (139,53)
+INFO:root:456
+INFO:root:True
+INFO:root:Digit found! 6, at (139,99)
+INFO:root:679
+INFO:root:True
+INFO:root:Digit found! 1, at (139,115)
+INFO:root:16
+INFO:root:True
+INFO:root:Digit found! 3, at (139,126)
+INFO:root:392
+INFO:root:True
+INFO:root:Digit found! 8, at (139,134)
+INFO:root:841
+INFO:root:False
+INFO:root:Digit found! 1, at (0,0)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 3, at (1,10)
+INFO:root:34
+INFO:root:True
+INFO:root:Digit found! 1, at (2,8)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 7, at (3,2)
+INFO:root:78
+INFO:root:True
+INFO:root:Digit found! 6, at (4,7)
+INFO:root:60
+INFO:root:False
+INFO:root:Digit found! 7, at (5,0)
+INFO:root:78
+INFO:root:True
+INFO:root:Digit found! 2, at (6,7)
+INFO:root:23
+INFO:root:True
+INFO:root:Digit found! 9, at (7,4)
+INFO:root:90
+INFO:root:True
+INFO:root:Digit found! 1, at (7,7)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 2, at (9,0)
+INFO:root:2
+INFO:root:True
+INFO:root:Digit found! 1, at (9,9)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 1, at (11,0)
+INFO:root:1
+INFO:root:True
+INFO:root:Digit found! 5, at (11,10)
+INFO:root:56
+INFO:root:True
+INFO:root:Digit found! 1, at (0,0)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 3, at (1,10)
+INFO:root:34
+INFO:root:True
+INFO:root:Digit found! 1, at (2,8)
+INFO:root:12
+INFO:root:True
+INFO:root:Digit found! 7, at (3,2)
+INFO:root:78
+INFO:root:True
+INFO:root:Digit found! 6, at (4,7)
+INFO:root:60
+INFO:root:False
+INFO:root:Digit found! 7, at (5,0)
+INFO:root:78
+INFO:root:True
+INFO:root:Digit found! 9, at (5,11)
+INFO:root:9
+INFO:root:True
+INFO:root:Digit found! 2, at (6,7)
+INFO:root:23
+INFO:root:True
+INFO:root:Digit found! 8, at (7,0)
+INFO:root:8
+INFO:root:False
+INFO:root:Digit found! 0, at (7,5)
+INFO:root:0
+INFO:root:True
+INFO:root:Digit found! 2, at (7,8)
+INFO:root:2
+INFO:root:False
+INFO:root:Digit found! 2, at (9,2)
+INFO:root:2
+INFO:root:True
+INFO:root:Digit found! 2, at (9,10)
+INFO:root:2
+INFO:root:True
+INFO:root:Digit found! 1, at (11,2)
+INFO:root:1
+INFO:root:True
+INFO:root:Digit found! 0, at (11,6)
+INFO:root:3
+INFO:root:True
+INFO:root:Digit found! 5, at (11,10)
+INFO:root:56
+INFO:root:True
